@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Cache and ipynb checkpoints
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
