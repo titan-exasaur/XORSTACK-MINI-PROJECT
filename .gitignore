@@ -9,3 +9,4 @@ __pycache__/
 
 # CTR Prediction Data
 4_ctr_prediction/data/avazu-ctr-prediction/
+4_ctr_prediction/notebooks/catboost_info/
