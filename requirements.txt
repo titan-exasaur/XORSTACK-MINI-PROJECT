@@ -4,3 +4,10 @@ pandas
 numpy
 scikit-learn
 python-dotenv
+snowflake-connector-python[pandas]
+pyarrow
+imbalanced-learn
+xgboost
+matplotlib
+seaborn
+black
