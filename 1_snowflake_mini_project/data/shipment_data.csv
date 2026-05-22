@@ -1,0 +1,1001 @@
+shipment_id,customer_id,origin_city,destination_city,carrier,shipment_mode,distance_km,package_weight,weather_condition,traffic_level,shipment_status,delay_hours,shipment_date
+1,f4440157-651d-465a-8aad-ffd292174e39,Kozova,Horní Štěpánov,UPS,Rail,1180,30,Heatwave,High,Delivered,28,7/16/2025
+2,6e936289-45fb-4501-baff-36efecb20508,Krajan Craken,Berģi,FedEx,Air,2751,76,Heatwave,Medium,Exception,6,1/9/2025
+3,22ea3c5b-b985-4fe9-bd16-d9876a6d2ab9,Nanortalik,Sukhothai,UPS,Rail,2285,10,Fog,High,Delivered,27,6/12/2024
+4,9fe847f2-e886-489f-9da7-58893e1d14b8,Fada N'gourma,Hailin,BlueDart,Road,1155,26,Heatwave,Medium,In Transit,41,11/23/2025
+5,34321f7c-7471-42c3-9d6c-428f49f04356,Chãos,Estela,BlueDart,Sea,541,48,Fog,Medium,Delivered,35,8/27/2024
+6,f947c627-fea5-4909-878d-55501ebe7210,Tianhe,Kanash,BlueDart,Air,1857,85,Fog,High,Delivered,21,11/20/2025
+7,b7d0dd51-eadb-452d-aa2f-d6f9554a1f52,Châtellerault,Ar Rifā‘,UPS,Rail,2906,23,Fog,Low,Delayed,1,6/19/2024
+8,82f48079-52b1-4b9a-811d-3d5dbdb028be,Velyki Sorochyntsi,Yingtan,BlueDart,Road,1473,22,Storm,High,Delayed,66,3/30/2025
+9,a090378d-fbb5-436a-91c6-624757c921af,Shahumyan,Helmas,Delhivery,Rail,2619,36,Clear,Low,Exception,37,5/16/2026
+10,8e3a1033-3034-4b4d-b1be-77d968fd71c6,Elliot,Paris 02,DHL,Sea,2199,10,Rain,Medium,Delivered,56,8/1/2025
+11,87ad21f5-a61f-4fe1-9f51-d35a3dc7e3af,Barajevo,Veselynove,BlueDart,Road,2798,93,Heatwave,Medium,Delayed,72,4/19/2025
+12,4febecca-9f1f-4f82-9062-c91d82e613ce,Atabayan,Mont-Saint-Aignan,BlueDart,Sea,2894,64,Clear,Medium,Exception,45,9/28/2025
+13,1c092755-06b7-4988-be48-003cbb6c9dce,Huangyang,Bagong Barrio,BlueDart,Sea,391,17,Storm,High,Delivered,36,10/26/2024
+14,0991cf9c-a213-4fd2-a8aa-adde8824f558,Machinga,Huaping,DHL,Sea,1892,98,Fog,Low,Delivered,43,6/2/2025
+15,f87572e3-bbc5-4b81-b466-42fd875663a2,Port Saint Lucie,Zephyrhills,UPS,Sea,1753,27,Rain,High,Exception,69,4/13/2026
+16,010d05d8-3e33-48d1-9db8-ad5008fdeb59,Ferkessédougou,Montpellier,UPS,Road,445,46,Storm,High,Exception,68,11/18/2024
+17,ae2e1760-dc1c-4d8c-b304-0b9e9ceb4ee1,Macari,Kediri,Delhivery,Sea,2029,9,Clear,Low,Delayed,50,10/7/2025
+18,ce0c5fb6-0cf6-4d6c-b64a-f2eecdca6ca9,Tajan,Lāmerd,Delhivery,Sea,187,34,Rain,Medium,In Transit,64,8/8/2024
+19,9c02341f-898f-4c62-a7b9-60a9baaf305e,Steinkjer,Mojocoya,UPS,Road,1381,82,Fog,High,In Transit,64,8/28/2024
+20,ec880d0a-ab3d-4ce1-9550-60de82746f1c,Malaga,Gabès,DHL,Rail,1923,77,Clear,Low,Delayed,13,9/26/2024
+21,ca399d0e-8fa5-4fff-98aa-b539856ff323,Colombo,Pryvol’ny,BlueDart,Air,1224,26,Clear,Medium,Delivered,71,7/12/2024
+22,7c0ac44d-b10a-4193-80c3-a1b702e9734c,Sahagún,Zeewolde,FedEx,Air,796,40,Storm,Medium,Exception,29,10/10/2025
+23,61a537b3-111c-4d28-a7b3-db39f1b0703d,Taposan,Livorno,BlueDart,Rail,1932,65,Heatwave,Medium,Delayed,45,2/19/2024
+24,f7f02d8b-5f26-4fa3-855e-0ed43fcabf9f,Savannah,Nîmes,UPS,Air,1806,69,Storm,High,Delayed,44,12/26/2025
+25,4435c0c9-f5d9-45a8-aff5-fb9eb59f6e0a,Birmingham,Boavista,BlueDart,Air,1435,20,Heatwave,High,Delayed,7,10/31/2024
+26,91dec2cb-1e5d-4af8-899f-05f2c7e2d9f4,Vecumnieki,Garupá,FedEx,Sea,2456,78,Heatwave,High,Delivered,3,5/11/2025
+27,4c46ee68-4cde-41e0-902a-4a50bcb0e86d,Crossfield,Bacem,BlueDart,Rail,1354,100,Storm,Low,Delivered,62,12/8/2024
+28,fee600f8-851c-4070-b7c6-c6472fb42141,Zhen’an,Campinas,UPS,Sea,2126,82,Fog,Low,Delivered,17,1/6/2025
+29,4d259452-13ac-40dd-8894-f9a017ca4076,Kuressaare,La Unión,BlueDart,Road,685,32,Heatwave,High,Delivered,60,5/30/2025
+30,78e8b082-f60c-423d-afc0-556e80577f55,Pontes,Benito Juarez,BlueDart,Road,1338,31,Storm,High,Delivered,24,9/10/2025
+31,ca725c38-4af1-43ac-b677-076d098c8242,Černošice,Selajambe Satu,Delhivery,Sea,735,26,Rain,Low,Delivered,10,1/1/2026
+32,821110d1-14d1-4b44-ae19-282bace92d7c,Mosjøen,Shiozawa,UPS,Rail,2238,68,Rain,High,In Transit,52,9/1/2025
+33,6a4df86b-adc6-4fa2-a537-72af45034bf4,Iwata,Imeni Babushkina,UPS,Road,319,23,Storm,Medium,Exception,59,11/26/2025
+34,9093683f-32ff-49a0-99b6-e87fd3d8fa0c,Qiulu,Ra-ngae,UPS,Rail,1362,66,Heatwave,Medium,Delayed,22,10/10/2024
+35,3a08de79-165c-4ea1-9c51-dd3d2a66f32d,Sadkowice,Mtsamdou,DHL,Rail,291,94,Heatwave,High,Delayed,3,11/11/2025
+36,f5ba4861-dbf2-45de-9776-77453fa4d900,Žandov,Dingjiaqiao,UPS,Road,1957,25,Fog,Low,In Transit,34,12/20/2025
+37,ec06967b-cab2-4869-bf85-712e15872dce,Nangalimang,Pandean,UPS,Sea,2032,47,Rain,High,Delayed,8,9/2/2024
+38,2d69e463-8bf1-48d5-bb0c-ef08452ace3f,Chiryū,Qingjiang,FedEx,Rail,743,8,Rain,High,Delayed,22,6/10/2025
+39,b56f5e4c-0a9f-4b03-8c10-19f56b1d5cc1,Ivot,Nova Odesa,FedEx,Air,1854,44,Fog,High,Delayed,54,4/25/2025
+40,63a89aac-5766-4290-9aeb-370158ac6350,Dabat,Za‘tarah,FedEx,Road,294,67,Heatwave,High,Delayed,54,4/16/2024
+41,0138ee0a-6d06-4d41-967b-100c7c3b194d,Luleå,Jelbuk,FedEx,Sea,1056,75,Fog,Medium,In Transit,29,8/21/2025
+42,8f92365b-e59f-404e-8431-ced04473494b,El Paso,Ibarra,UPS,Sea,89,20,Heatwave,Low,Delivered,43,7/24/2025
+43,7f377cb3-9376-4267-aaa3-fac74c69d43b,Guali,Pa Phayom,BlueDart,Air,2185,47,Rain,Low,Delayed,63,4/28/2024
+44,f352ac51-a748-4f13-807a-2e89015a2384,Lugovoy,Isyangulovo,BlueDart,Air,2974,11,Fog,High,Delayed,21,3/22/2025
+45,dd2b1374-a5ff-4416-893e-bbc0a3fa8c1a,Panadura,Fangshan,DHL,Air,2675,19,Storm,Medium,In Transit,63,8/17/2024
+46,37f016e6-810f-4d36-92f7-e5bcaf28fd29,Xuedian,Zagreb,DHL,Road,1056,67,Heatwave,Medium,In Transit,47,8/14/2024
+47,6a72d4b1-c5d5-4658-abec-3144d4083acf,Logan Lake,Duotian,UPS,Road,216,80,Storm,High,Delayed,37,1/23/2026
+48,1f1a9e6f-4644-42d4-a93c-72180d032f01,Tukhlya,Simo,FedEx,Rail,1105,38,Rain,Medium,Exception,14,5/21/2025
+49,ae6174e0-c983-4074-b726-ece306514808,Dongyang,Zeerust,UPS,Air,1037,80,Fog,Medium,Exception,69,3/18/2025
+50,91792c72-54e5-4ede-9299-d14a759114b4,Novogurovskiy,Chang Klang,DHL,Rail,2645,48,Storm,Medium,Delivered,69,3/23/2026
+51,d89476c4-9157-47e9-95ad-d271be5eebd3,Oss,Bazha,Delhivery,Road,2588,70,Rain,High,Exception,28,11/18/2024
+52,2822cbe1-7647-40ad-80c6-b1e718e984ff,Qihama,Soledad,BlueDart,Air,455,57,Storm,Medium,Delivered,5,4/7/2024
+53,d1976950-9520-4f15-be93-38bfb6f0399c,Tengqiao,Plato,FedEx,Sea,214,98,Rain,Low,Exception,62,1/21/2026
+54,f2c99a64-7e53-4709-ac33-ba68d60e3993,Manolo Fortich,Bendungan,BlueDart,Road,509,44,Heatwave,Low,Delivered,56,4/7/2026
+55,9e111943-41c4-4a6b-99ec-8ce66b2fa565,Sergeyevka,Ormož,BlueDart,Rail,306,73,Rain,Low,Exception,11,11/8/2024
+56,a2fd0d63-2f89-45c4-ad50-8689a218aa2b,Alexandroúpoli,Paris 13,UPS,Sea,484,50,Rain,Medium,In Transit,29,6/12/2025
+57,1a42a603-d727-4e0e-937b-1490089c650f,Berlin,Jiaohu,DHL,Rail,735,17,Heatwave,High,Exception,72,2/20/2024
+58,dbfdcbf7-f235-40a4-87a5-da5e0f10a02e,Xia Dawo,Ailibugai,FedEx,Sea,78,17,Heatwave,Medium,Exception,1,2/16/2026
+59,abcc88b6-851e-4f90-8592-c729bfc5236d,Bashtanka,Meadow Lake,UPS,Sea,1379,61,Rain,Low,Delayed,71,4/20/2024
+60,3fbe8217-b810-4bf3-abf1-18a433e78a88,Boca de Uchire,Chivor,DHL,Air,2498,10,Fog,Medium,Exception,34,5/11/2024
+61,c78bccd6-f3d8-43a6-bdd6-7547e72c5912,Shijing,Yangqiao,FedEx,Rail,1891,57,Rain,Low,In Transit,54,4/16/2026
+62,7e1a24b9-6242-4634-a45d-9d006770a214,Jarada,Yanwo,FedEx,Sea,2304,46,Rain,High,Delivered,46,2/28/2026
+63,5d95214d-b54b-47fb-91bc-4e6073b75326,El Cuy,Sanlifan,DHL,Rail,522,6,Storm,Low,Delivered,20,1/13/2026
+64,48a6cdfe-8aa1-4340-8a78-e17cf541d799,Hannover,Sóc Sơn,Delhivery,Sea,588,40,Rain,Low,Delayed,40,2/10/2025
+65,e323d3cd-f914-42d3-80ce-6f0dd1ee768e,Mrozy,Satun,Delhivery,Air,1854,90,Clear,High,Delayed,25,6/5/2024
+66,42281e5f-8dff-4b08-bb95-f0e1bccfd2d9,Mokwa,Armenia,Delhivery,Rail,2770,84,Rain,Medium,Delayed,18,5/19/2026
+67,1936aa57-5332-40ec-a4fc-617368c4c9e9,Kristinehamn,Bayt Ūlā,UPS,Sea,1046,91,Heatwave,Low,Delayed,62,10/16/2024
+68,10043016-1201-4df6-bb79-e722f3127e6d,Jinjiahe,Meziměstí,BlueDart,Road,2397,84,Fog,Medium,Delivered,22,2/21/2024
+69,01a0efb4-b69f-4b66-89b8-614ae486ae68,Umeå,Kertorejo,DHL,Air,2009,64,Heatwave,High,Delivered,47,1/3/2025
+70,79896333-279e-40d8-8572-51b7c0cacf3a,Rusip,Qidi,UPS,Sea,2779,75,Fog,Low,Exception,41,2/23/2025
+71,79dfa6df-318b-4a0e-8944-a1d84a454138,Manicaragua,Jiangkou,DHL,Road,2160,43,Heatwave,Medium,In Transit,30,11/29/2024
+72,8ae7ffd1-fc19-43b0-8aa7-256b19065b5f,Buenaventura,La Laja,DHL,Sea,1180,41,Fog,Low,Exception,30,8/26/2025
+73,12530812-0545-4cb8-8eee-0a1c738caecf,Raszowa,Sunampe,BlueDart,Road,2218,4,Fog,High,In Transit,34,11/4/2025
+74,abafb1f3-8acb-4b27-8a96-c9cdbe626b4e,Whakatane,Parang,Delhivery,Rail,2905,54,Storm,High,Delayed,53,7/18/2025
+75,a58a9812-163d-4728-8b21-56dc592675ff,Munkfors,Gweru,BlueDart,Rail,500,19,Heatwave,Medium,Exception,8,8/4/2025
+76,3d3b29fb-a0e2-4df3-a2d2-90204e25bda9,Kalwaria Zebrzydowska,Vannes,Delhivery,Sea,939,90,Storm,High,Delivered,56,4/13/2026
+77,31135642-0f7e-440d-a997-c98ef2ac4d9d,Sơn Tịnh,Dongxiao,DHL,Sea,2367,35,Storm,Medium,Exception,70,5/27/2025
+78,4beba64d-f186-4030-8c76-c16216885a73,Headlands,Barrouallie,FedEx,Sea,115,51,Rain,Medium,Delivered,2,8/12/2024
+79,5338d2d2-9539-468c-a035-ed098ba69f63,Refojos de Riba de Ave,Phoenix,Delhivery,Air,955,42,Clear,Medium,Delayed,13,5/2/2025
+80,bdb17fd2-787d-453e-a2a4-ceaf9ee802e6,Savigny-le-Temple,Karangbayat,UPS,Rail,349,17,Fog,High,Exception,66,11/7/2024
+81,19d7ee17-d158-4b16-b5a3-67a3616eb314,Noşratābād,Strömsund,BlueDart,Sea,2017,24,Fog,Low,Delayed,59,3/11/2025
+82,c77d9194-2f23-40a1-88fa-e19420a316be,Ziyang Chengguanzhen,Sovetskiy,FedEx,Air,1349,32,Rain,High,Delayed,24,12/10/2025
+83,f7a57cdf-f9e3-4670-af25-2e9050eebeaa,Teykovo,Luoyang,BlueDart,Air,2811,97,Clear,High,Delivered,24,9/28/2024
+84,de73ea3d-de77-443c-acfa-ddbd44998504,Zhigulevsk,Nikol’skoye,Delhivery,Air,1658,89,Fog,Low,In Transit,39,7/22/2024
+85,916118d3-97ec-49f0-b3a3-4ba419f37535,Bystrzyca,Nagrak,BlueDart,Sea,456,70,Clear,Low,Exception,24,11/19/2025
+86,0e52349d-a0d1-4def-96d0-a8504294c5c5,Monte Agudo,San Pablo,Delhivery,Road,1807,63,Storm,Low,Exception,28,1/23/2026
+87,d0e6d72c-bdc8-4ec3-b099-913c86d98ee6,Dolega District,Wojaszówka,BlueDart,Road,505,89,Heatwave,High,In Transit,13,7/4/2024
+88,72fb1be1-5597-4d14-8df2-7bb2564846e0,Qaşr al Farāfirah,San Jose Village,DHL,Road,1439,14,Rain,Medium,Delivered,0,3/16/2025
+89,ba22b4ae-a704-448f-ab87-3709042c69b4,Xianyan,Żórawina,DHL,Rail,2591,45,Rain,High,Delayed,34,9/7/2025
+90,364d6253-ebb8-4dbc-a653-abcc9fd41714,Byuravan,Dubrava,DHL,Rail,2608,98,Heatwave,High,Delivered,33,5/17/2025
+91,131662ba-37b1-41e5-b185-aef8e298bc33,Julayjilah,Achada,DHL,Sea,2576,100,Storm,Medium,Delivered,56,7/16/2025
+92,decd0afe-cf63-466b-aff1-1593f6619bab,Wangping,Tripoli,Delhivery,Road,2482,87,Storm,Low,Exception,13,11/13/2025
+93,f7aae112-a2d9-4542-b36c-0a26cc100c58,Bumba,Leidschendam,UPS,Rail,1543,64,Clear,Low,Delivered,52,5/6/2024
+94,8efba839-f9cc-47cf-957f-c73a83f06289,Umeå,Sampangbitung,Delhivery,Road,384,46,Rain,Low,In Transit,37,9/7/2024
+95,999fa2ad-2901-4cbe-a0d6-28d1ece8338e,Arteni,Karmah an Nuzul,BlueDart,Air,1608,12,Storm,High,Delivered,2,12/20/2025
+96,bbefacca-b45a-4809-8427-afd1d251e8c3,Warin Chamrap,Žlutice,UPS,Air,2209,52,Storm,Low,Delayed,39,9/8/2024
+97,b3b63d03-7b6a-47b5-85dc-3d63863b80cb,Malaruhatan,La Molina,DHL,Air,1204,79,Storm,Low,Delayed,18,5/9/2026
+98,aba52b0c-9301-4e8a-a349-c54ad674470c,Janaúba,Ivouani,BlueDart,Road,1365,92,Storm,High,Delayed,39,11/26/2025
+99,1abc9901-c358-4d1f-a96f-80cb2958708d,Banjar Ponggang,Colonia Elía,UPS,Air,748,2,Heatwave,High,In Transit,65,9/5/2025
+100,589e179e-c07f-4d8b-ab9c-13adf5874252,Blois,Kokoshkino,UPS,Air,1384,46,Fog,High,In Transit,50,1/4/2026
+101,d9a62b3a-95f3-4458-8db7-157f690efee9,Dalumangcob,Guacamaya,UPS,Air,1670,33,Fog,Low,Delayed,50,8/24/2025
+102,22635cb5-6315-49d7-8dd3-bd5675db080c,Kalangan,Bejucal,UPS,Road,1914,98,Heatwave,Low,Exception,62,3/11/2025
+103,1291aa23-7b3d-47af-9ef2-c38517655e77,Novokuybyshevsk,Podosinovets,BlueDart,Rail,709,14,Rain,Low,Exception,64,1/29/2026
+104,1a362322-eef5-4b81-be2f-2d79d1865891,Sanhe,Saryözek,Delhivery,Road,1992,62,Rain,Medium,In Transit,43,6/1/2024
+105,03c1c7d3-c2c0-4a53-8867-194a91814c96,Cipanas,Hancheng,BlueDart,Air,1543,50,Storm,Low,In Transit,18,2/20/2025
+106,70d6714c-66d5-4f2a-b591-4901054e3753,Dobra,Kourou,FedEx,Sea,766,20,Storm,Low,In Transit,38,5/22/2024
+107,6b0f09b3-757d-45b3-b0a9-8b95779107f8,Wadeng,Solna,DHL,Road,844,17,Rain,Medium,Delivered,32,3/4/2024
+108,dece17c6-e931-4783-b2b5-17d459058a4f,Cuauhtemoc,Qiaoxi,BlueDart,Road,490,36,Fog,Medium,Delivered,26,10/6/2025
+109,a6cbc934-cf50-4d60-a224-bb532fc3481c,Maloco,Lukićevo,UPS,Air,568,65,Storm,Medium,In Transit,59,3/22/2024
+110,8d8263c6-c87d-44db-bd99-4d037e9c2286,Suocheng,Wagini,Delhivery,Road,2571,38,Rain,High,In Transit,17,3/2/2026
+111,08db1174-795c-4824-9881-213475f5b6aa,Sandakan,Sanmiaoqian,Delhivery,Sea,2963,49,Rain,Low,Delayed,58,5/30/2025
+112,a1aa8d34-e29e-48e4-b693-2242fb5b57c1,Kedatuan,Gjøvik,UPS,Air,293,53,Heatwave,Medium,Delivered,51,3/3/2025
+113,bde77217-9848-41ec-a5f4-f012f823cfa3,Jatake,Eldama Ravine,FedEx,Sea,2217,23,Rain,Medium,Delayed,59,12/28/2024
+114,732c6c5e-ab4c-421a-966e-add1e70fda48,Mardā,Soutocico,UPS,Air,278,36,Heatwave,Low,In Transit,46,8/1/2025
+115,8f2eb0d3-733a-4b31-b286-dc80281475d5,Brakas,Sindang,FedEx,Air,2181,26,Clear,Medium,Exception,63,1/18/2026
+116,1ecae49a-f1e8-4894-8787-8dbd7d57c41c,Quy Đạt,Naagas,BlueDart,Rail,2634,75,Clear,Medium,In Transit,19,9/8/2025
+117,70886a95-36a0-4730-8ef4-4ac8cd2bcf7a,Gaoyi,Prelog,Delhivery,Air,2236,7,Clear,Low,Delivered,9,7/7/2024
+118,a68c4b53-1e33-40f3-b390-bab8f15f8bd9,Baculin,San Rafael Arriba,BlueDart,Air,1440,30,Storm,Medium,Delivered,20,5/4/2024
+119,90bb0c17-17bb-4b13-b919-e885d94d6326,Zheleznovodsk,Chadi,DHL,Road,760,61,Storm,Low,Exception,30,11/14/2025
+120,9844d814-fe14-4f21-9799-bc5795a89629,Werangere,Ribeirão Pires,Delhivery,Road,630,34,Clear,Medium,Exception,22,9/27/2024
+121,92ac845e-0728-4d90-ae78-dd166230d998,Saratamata,Calaba,DHL,Road,184,59,Fog,High,In Transit,67,6/6/2024
+122,5f874180-4872-47b7-9759-baba00140151,Sayansk,Ugba,DHL,Road,2546,98,Clear,Low,Delayed,15,10/1/2025
+123,7eec5f22-1607-4d6a-8181-98a27f6d9f66,Fier,Cileunyi,DHL,Road,2615,38,Rain,Low,In Transit,52,6/9/2024
+124,de62aa9b-fdc5-4bf8-a1c7-5af4bd077408,Lengji,Martingança,FedEx,Rail,86,68,Fog,Medium,Exception,45,9/2/2025
+125,34dc60cd-b4b5-4075-8dee-8f010b48ee11,Santiago de Cuba,Nagrak,DHL,Air,1776,35,Rain,Medium,Exception,48,5/1/2026
+126,eb0478a8-cf3e-4cca-a1d0-c85cc899943b,Maslovka,Sanlei,Delhivery,Road,2163,72,Fog,Low,In Transit,21,10/20/2024
+127,a677bf43-e19e-4877-8e4d-08fc59681a0c,Ogurugu,Petrolina de Goiás,DHL,Road,1900,74,Rain,High,In Transit,46,12/25/2024
+128,cc86f74a-0a06-411f-a3dc-91821919b6a6,Ulashan,Jincheng,DHL,Rail,1615,57,Heatwave,Medium,In Transit,40,7/27/2025
+129,38dc0899-a04a-4ab7-8148-0fa9d257428b,Pombal,Pyzdry,DHL,Rail,2736,21,Storm,Medium,Exception,23,7/10/2024
+130,4c3a9085-2b17-4cd3-ab98-59b4500d76d6,Nioro,Yili,DHL,Road,1384,44,Storm,Low,In Transit,42,2/23/2025
+131,927772fb-e42b-4ae1-b64e-74c5f8eabceb,Uryupinsk,Liberia,Delhivery,Air,1087,22,Heatwave,High,Exception,43,7/23/2025
+132,48321875-a782-47e0-af3a-14473fd721b5,Nardaran,Weishan,Delhivery,Sea,1789,41,Storm,Low,Delayed,42,11/22/2024
+133,5a4a549f-cb6b-4dc9-97ad-4bbb90d123dc,Arauco,El Paso,BlueDart,Rail,625,37,Clear,Medium,Delayed,34,12/24/2025
+134,df520dce-93d8-4f78-968a-f83bf0b21886,Ivanava,Mulhouse,Delhivery,Air,2791,25,Storm,Medium,In Transit,42,11/30/2024
+135,f1001890-2ce3-453d-a312-3d544259e586,Sindangsari,Tibigan,Delhivery,Rail,1209,68,Storm,High,Exception,20,3/6/2024
+136,2f0ab593-dcec-4aea-92e1-42c3f6ac6e43,Huangjin,Mertani,DHL,Rail,815,66,Fog,Medium,In Transit,29,3/2/2026
+137,52061312-8372-4c7e-8431-f513451d06a9,Yungay,Lingquan,BlueDart,Rail,2836,70,Rain,Medium,Delayed,24,4/2/2024
+138,33b6f156-8fd2-450b-8d48-d243397c0426,Bangunharja,Leńcze,DHL,Rail,674,31,Storm,Low,Exception,22,5/14/2025
+139,5c23d8fc-3607-4b91-af1e-5a6e56e56a18,Novokhopërsk,Kompóti,UPS,Sea,1525,34,Clear,Low,Exception,39,7/22/2024
+140,a451b6b7-4bdd-4fae-9048-41a18e80d18b,Kozy,Beidong,FedEx,Air,437,87,Clear,Low,Delivered,70,9/18/2024
+141,ac0a581f-e1bd-4332-ba73-afa738d8e6e6,Jankovec,Camgyai,UPS,Sea,2670,74,Heatwave,Low,In Transit,44,3/13/2026
+142,f93bb337-3cd4-43f0-a140-839cc0d3c733,Stockholm,Barranco de Loba,UPS,Air,374,20,Storm,Low,Delayed,38,3/21/2024
+143,42a288d7-3983-4876-a8ce-05a66cec7429,Nkurenkuru,Providencia,Delhivery,Road,1043,57,Heatwave,Low,In Transit,4,8/6/2025
+144,8cb29029-e406-4439-972b-73208e67d727,Ozëry,Gaoping,FedEx,Road,1048,38,Rain,High,Exception,37,1/7/2026
+145,8a15ddd5-9cb1-4af1-b8d8-f7dedc816f9f,Listowel,Werbkowice,BlueDart,Rail,481,19,Clear,High,Delivered,21,9/19/2025
+146,fefbcca3-a2fa-4696-9216-4edf8099ca1a,Temirtau,Belize City,DHL,Road,2245,34,Fog,Medium,Delivered,11,10/1/2025
+147,d25c03d4-24b1-4f34-a0eb-e5ab7a5856e8,Qingkou,Petrov,Delhivery,Rail,824,72,Storm,Low,Delayed,57,2/13/2026
+148,a6016451-d96e-41c3-a253-3d09c588bb36,Zhaotong,Karangsari,UPS,Road,992,26,Rain,Low,Exception,46,12/4/2025
+149,44c31790-44f5-4557-bcee-6be372417634,Bang Nam Priao,Coyaima,UPS,Air,1471,35,Rain,High,Delayed,70,2/16/2026
+150,405fc68a-c82f-4a92-85a6-55ed2399c25e,Papelón,Tazarine,BlueDart,Sea,2024,56,Fog,Medium,Delayed,69,4/2/2024
+151,beec13b9-f883-46d5-a135-f1d9c05855fe,Knežica,Iksha,FedEx,Road,761,11,Clear,Medium,Delayed,47,1/29/2026
+152,0dae668f-d6b3-42b1-af4a-4e8c37ba47f2,Luxia,Songdong,DHL,Rail,87,85,Clear,Medium,Exception,55,11/1/2024
+153,756b30ab-c4dd-4820-9e57-51f5cddfe235,Yataity del Norte,Vardane,DHL,Rail,2379,86,Storm,Medium,In Transit,6,3/30/2024
+154,11338d44-79fb-4b08-8d77-11c8a0871620,Sakado,Albufeira,DHL,Rail,2970,30,Storm,High,Delivered,38,3/13/2026
+155,eedb8b6e-8581-4dcc-90ff-445d54021d28,Zengtian,Dawan,Delhivery,Rail,1983,26,Heatwave,Medium,In Transit,32,12/3/2025
+156,dbd1ea6a-b384-4957-8b8d-81d41816a3d1,Vimmerby,Sandaotong,BlueDart,Rail,313,24,Heatwave,Medium,In Transit,22,7/7/2025
+157,8d8a9555-0250-4875-a8fe-04a450c5b5c2,Mucifal,Kobryn,Delhivery,Rail,1906,49,Heatwave,High,Delayed,66,7/25/2025
+158,c2867eca-dbb9-4c2c-8608-eb659faa76db,São Carlos,Pompéia,UPS,Rail,1053,97,Fog,Medium,Delayed,46,10/28/2024
+159,de5799e7-df3b-4f03-ae35-7b2a71c8045b,Margorejo,Pandi,DHL,Air,2139,20,Fog,Medium,Delayed,69,9/7/2025
+160,11495251-2bf4-4ca5-8db4-121c7534aa5c,Jorowaru Daya,Nytva,Delhivery,Air,583,68,Clear,Low,In Transit,59,10/28/2024
+161,b14ad94f-7d78-4c81-8bec-e2dd14b22075,Novodvinsk,El Estor,DHL,Rail,1192,59,Heatwave,High,Delayed,9,3/24/2025
+162,305ae96b-2ae0-4b0d-8314-ab9f864018f9,Emmeloord,Esperanza,UPS,Road,2971,68,Storm,High,Exception,35,6/24/2024
+163,7ce1f37d-cd95-411a-b09e-e0896ebc0225,Cruz das Almas,Seattle,BlueDart,Sea,1002,44,Fog,Medium,Delayed,26,3/18/2024
+164,837f6e14-fffe-454f-a5d1-c0a89cc410a7,Da-an Sur,Cabeçudos,BlueDart,Rail,1076,98,Storm,Medium,Delivered,62,12/14/2024
+165,5813144c-6ae1-46b9-b2d3-94c5767bd01c,Tupã,Gongpo,UPS,Rail,1300,12,Heatwave,Low,Delivered,22,3/26/2025
+166,b03c34fc-5d09-4f13-ba02-1becdf7991c5,Suay,Tugusirna,Delhivery,Sea,873,63,Storm,Low,Delivered,45,9/24/2025
+167,ad802df5-18d8-4b08-854b-afea514ab2b5,Shiyan,Ulanov,FedEx,Air,2400,35,Rain,Medium,In Transit,30,5/21/2025
+168,6417f968-a3bd-4586-90e2-3cb1da6ff2c5,Malonty,Roboré,DHL,Rail,1928,63,Heatwave,High,Exception,7,5/28/2024
+169,54de23aa-4ded-417c-82fe-cd7591cd51ff,Nnewi,Praya,BlueDart,Sea,1302,44,Heatwave,Medium,In Transit,11,2/26/2026
+170,0692c8e1-b49a-4d79-9222-508551a787ef,Atães,Argenteuil,BlueDart,Road,494,87,Storm,Low,Exception,13,12/3/2025
+171,a20f660b-f4bd-4284-bfe3-bbc4b5773c4e,Batanghari,Evansville,FedEx,Sea,1777,22,Fog,Medium,Delayed,57,2/15/2024
+172,cab0d140-08a7-4ddb-8fe7-331259cc5b9f,Hexi,Otan Aiyegbaju,Delhivery,Road,92,16,Heatwave,Medium,Delayed,57,4/2/2026
+173,609d1cb9-7f9f-49f2-9faf-cbed38b63117,Guozhuang,Linqu,UPS,Sea,2552,51,Clear,Medium,Delivered,21,7/20/2024
+174,92330cca-2442-4f0c-a78a-dc8470a300e6,Pirassununga,Al Mughayyir,FedEx,Air,169,74,Fog,Medium,Exception,63,4/19/2024
+175,e6a09c36-cd4e-4046-9f0d-f71674fd09f7,Kauran,Hitiaa,FedEx,Sea,2780,21,Fog,Low,In Transit,68,10/24/2024
+176,0e480852-e4bc-43cd-933a-eb2f19a2d0fe,Gozdowo,Saryshaghan,Delhivery,Road,318,47,Fog,Medium,Delivered,61,1/27/2025
+177,9c3e4d2d-7e2e-471b-a42a-6cdc4f57a48a,Nice,Jandaia do Sul,FedEx,Air,1331,54,Rain,High,In Transit,66,3/4/2026
+178,a21334ab-0114-44ff-9447-0b06ba1f83fd,Anjirmuara,Raejeru,Delhivery,Rail,1881,61,Fog,High,In Transit,22,9/8/2024
+179,e05c41f8-60f4-4854-801b-c708040306bc,Sapat,Sacotes,DHL,Road,1646,78,Rain,Medium,Delayed,72,8/26/2024
+180,68f7a5f7-d454-4f96-b114-8ca900517cb3,Chiara,Jahrom,DHL,Road,944,45,Rain,Low,Exception,50,8/23/2025
+181,0b1d8724-a04e-4f8d-a369-de5b734f8246,Svalöv,Kelīshād va Sūdarjān,Delhivery,Air,2222,74,Fog,Low,Delayed,60,7/5/2025
+182,511a2b83-c37a-4f0d-ac6b-8d1a52fd4241,Nisí,Norton,DHL,Rail,123,96,Clear,High,Delivered,34,7/11/2025
+183,f2b41165-c977-4b4a-bc1a-c3e51d6c5717,General San Martín,Vallehermoso,DHL,Rail,1027,32,Rain,High,Delayed,70,6/15/2025
+184,dd65a57b-742f-4049-986d-d23545c40439,Zheshart,Gombong,DHL,Rail,1574,56,Clear,High,Delivered,9,11/14/2024
+185,c96e5671-0634-4c1f-80fb-8cd9b75d7173,Pansoy,Wao,BlueDart,Sea,1099,26,Storm,Medium,In Transit,37,4/1/2024
+186,ea750d01-f8bc-43a6-9e8d-d4f9bf7b9e61,Le Mans,Azurduy,UPS,Air,938,49,Clear,High,Delayed,59,4/8/2025
+187,4a10d63e-9f46-4111-beb7-2c40a590c3ae,Al Maḩfid,Kuanheum,Delhivery,Road,1093,58,Storm,Medium,Delivered,37,4/7/2026
+188,ebabf97f-e559-4bbc-bac8-9383c1626463,Ouaoula,Pushkin,FedEx,Rail,253,75,Heatwave,Medium,Delivered,10,5/3/2025
+189,32bfffaf-df6b-42c9-9a52-8d32b58f4202,Liski,Pljevlja,FedEx,Air,1461,80,Clear,Medium,Delivered,66,5/19/2025
+190,a8790c7e-e46f-4892-b942-db807bea1e8e,Yangqiao,Beilun,BlueDart,Rail,2565,88,Heatwave,Low,Exception,9,10/9/2025
+191,88ac958f-edd7-4826-a8a2-91a44aa20495,Mława,Miskindzha,DHL,Rail,1735,34,Rain,Medium,Delivered,38,5/31/2024
+192,f8d6345b-a7bd-4126-bf3c-b919da550148,Saumur,Santo André,BlueDart,Road,1604,9,Clear,Medium,Exception,53,5/6/2024
+193,0000d065-2284-4864-9351-6face4727e05,Guankou,Guanmiao,Delhivery,Sea,99,75,Clear,Low,Delivered,5,6/12/2025
+194,d0f04800-f414-4b35-9917-7465be0afd87,Bao’an,Nazaré da Mata,DHL,Road,2313,89,Storm,High,Exception,7,1/14/2026
+195,61c8badc-eca5-49d1-ba85-2f3731caecfe,Agassiz,Wudui,DHL,Rail,2993,55,Storm,Low,Exception,31,2/21/2025
+196,1c93e8c6-2c12-4c59-b4a2-d9592fcef2c9,Marco,Dibba Al-Fujairah,Delhivery,Rail,2862,96,Clear,High,Delayed,45,5/30/2025
+197,be5dd225-a2de-4b8b-9042-c2c3eb3082f6,Ortigueira,San Pedro Masahuat,Delhivery,Sea,142,83,Storm,Medium,Delayed,69,9/1/2025
+198,a49b4a87-a399-4fae-ac97-5e3a4812dea4,Pajeksan,Tuchlovice,DHL,Road,1113,11,Clear,Medium,Exception,45,11/10/2025
+199,888f11c3-efe1-4f28-9383-3b8b7135eba5,Ferreiras,Casillas,FedEx,Road,734,17,Storm,High,In Transit,26,5/28/2024
+200,db537c50-c9ec-4616-a43c-389f47acc529,Yonezawa,Jinzipai,UPS,Air,414,13,Clear,Low,Delayed,21,3/11/2026
+201,53a7cd03-6b63-4230-ae2b-fea9b4bc6710,Nikolo-Pavlovskoye,Shuangqiao,Delhivery,Rail,2473,41,Heatwave,Medium,Delayed,51,4/4/2025
+202,4602f7d6-f30a-4190-b838-79d71d0420e9,Pinheiro,Harbour Breton,DHL,Air,782,47,Rain,Medium,Delivered,63,7/7/2025
+203,2ba994d0-ff35-4977-9f91-b1279a4ff5f9,Wetzlar,Al Maşlūb,FedEx,Road,268,26,Fog,Medium,In Transit,10,11/26/2025
+204,f07acbab-422c-465e-ab17-06e30be816cf,Jinta,Sawahrandu,FedEx,Rail,2450,26,Heatwave,Low,Delivered,5,4/10/2025
+205,f2f5c892-8de2-4751-b8db-466763ea4679,Sukarama,Aygek,BlueDart,Air,1768,36,Storm,Medium,Delayed,66,4/11/2025
+206,b5d89e6f-acba-4a5e-ae64-350a1464440a,Mbale,Jankowice,UPS,Road,881,5,Heatwave,Low,In Transit,32,11/25/2025
+207,79822e01-e7b8-4933-93fb-1f4afb8d52ab,Gannan,Oss,FedEx,Rail,2738,68,Rain,High,In Transit,56,12/25/2024
+208,118c0dab-e3fc-44cb-b83f-1b12dfe35165,Balkh,Shuangtang,DHL,Air,1383,15,Clear,Medium,Exception,68,7/13/2024
+209,cdea8515-5e81-41f4-83e2-8d59c646b977,Chatturat,Luksuhin,BlueDart,Rail,2916,27,Clear,Low,Delayed,51,7/4/2025
+210,0a388255-3639-4a8b-9a06-61a9b8d48441,Ariquemes,Zhuyeping,UPS,Road,131,43,Clear,Low,In Transit,35,12/19/2025
+211,11324a0f-9563-4896-a49b-fcbcc792231e,Neiba,Makoba,BlueDart,Sea,2411,90,Fog,Medium,Delayed,1,12/17/2025
+212,547b4346-22b7-4f72-9c1a-e502c7f18211,Rokietnica,Siepraw,UPS,Rail,1172,11,Rain,High,In Transit,62,6/3/2024
+213,e212c99d-bcfb-475e-824d-14e5998fbac5,Aiánteio,Majie,Delhivery,Air,385,25,Storm,Medium,Delayed,22,4/16/2026
+214,58e2fdca-0efd-4582-92eb-a046ce1c1296,Marseille,Oemollo,FedEx,Rail,1623,31,Heatwave,Low,Exception,7,9/6/2024
+215,71be99f4-bd48-4049-b4a3-0832a6ef60f1,Rakhiv,Bajo Naranjillo,FedEx,Air,2683,22,Heatwave,High,Delayed,47,10/7/2025
+216,146cca17-09de-4357-aa65-e490dbd930a5,Chynów,Sokolnice,Delhivery,Road,541,95,Heatwave,Medium,Delayed,45,12/14/2025
+217,c75bdb9f-7a11-4fc3-abed-a971336f4cf1,Midões,Bahía Honda,DHL,Sea,1886,45,Fog,High,In Transit,13,3/6/2024
+218,1430fb2a-8f09-4cc5-8859-b7b915a7d37c,Kimakamak,Muang Xay,UPS,Road,606,45,Clear,Medium,Exception,13,7/17/2025
+219,a786acf8-45e1-419c-a486-26c059dec306,Challhuahuacho,Novi Travnik,BlueDart,Air,2783,81,Clear,Medium,In Transit,25,11/8/2024
+220,e68de5df-be23-4101-994a-83aff3c489d3,Santa Rita,Butare,BlueDart,Road,2670,13,Fog,Medium,In Transit,70,7/16/2025
+221,094b1053-785e-4fdc-9bc6-32099f2c0b53,Tobol,Baixi,BlueDart,Sea,1785,9,Clear,Medium,Delayed,39,1/8/2025
+222,ff6e6fd0-f06e-47e5-84e8-15d700445336,Zhangjiayuan,Inowrocław,BlueDart,Rail,1490,99,Clear,High,Delivered,2,4/5/2024
+223,a61ebe5f-9d00-4ec8-887d-7a75b5cad6d0,Sumberrejo,Xinxing,DHL,Air,1631,22,Rain,Low,Delayed,2,8/5/2024
+224,67ff9dbd-e573-4480-aaec-2126fe3165a6,Pescadería,Växjö,UPS,Air,2454,73,Heatwave,High,In Transit,26,6/6/2025
+225,08d041ff-981a-40be-b1b2-b360a7384a0e,Huanoquite,Huangshi,BlueDart,Road,2934,95,Heatwave,Medium,Delayed,3,12/17/2024
+226,cd6e1ba3-818d-4652-9efa-ff0aaa87a1e5,Kobe,Pasirnangka,Delhivery,Air,2105,60,Rain,High,Exception,21,11/5/2024
+227,8be43873-44ad-4aad-833b-7b56a73145ae,Gaoqiu,Dallas,FedEx,Sea,1558,84,Clear,Medium,Delivered,32,5/18/2026
+228,1bb08c27-e2ca-47e6-a51d-dfb09106252e,Agbani,Kalapagenep,Delhivery,Air,273,11,Clear,High,Delayed,60,10/27/2024
+229,523bc2bb-24f1-461b-93c8-c417bd876a0a,Cigaras,Botucatu,DHL,Road,2254,55,Fog,High,Delayed,23,2/26/2026
+230,e2bbe7d7-cbf7-4d08-bab4-8105f9072d71,Kanshi,Malabor,BlueDart,Air,374,60,Storm,High,In Transit,39,3/2/2025
+231,12b144de-0c05-4f9d-a36d-468f82e5aa25,Želešice,San Antonio,UPS,Air,578,75,Storm,Medium,Exception,36,12/6/2024
+232,7206ac89-12df-4e07-92db-d2924ae4fc3e,San Juan Sacatepéquez,Shangbahe,Delhivery,Rail,2058,77,Storm,Medium,Exception,16,7/11/2024
+233,65d3228b-a5aa-466f-879b-6d6bc1c52fd1,Camaquã,Cacheu,BlueDart,Rail,2569,15,Clear,Low,Exception,42,3/14/2026
+234,6d67dcc6-4f1a-4cc6-a1e5-fcbb49b107a1,Ford,Qunsheng,Delhivery,Road,75,8,Clear,Low,Delayed,57,7/9/2024
+235,f302fa2c-4242-48aa-a0f7-794e5c98db2d,Leiden,Taphan Hin,FedEx,Road,1499,12,Heatwave,Medium,In Transit,47,10/6/2024
+236,971cb84f-96e8-4383-846f-f49984974439,Hongjiaguan,Piritiba,BlueDart,Rail,2195,63,Fog,Medium,Delayed,3,1/1/2026
+237,1c93a25b-cb66-4cea-bc8f-1e174439f143,Gancheng,Loureiro,BlueDart,Road,2870,85,Rain,Low,Delayed,35,12/10/2024
+238,67ede949-485c-4931-bc85-bac6b42549a8,Thanh Nê,Złota,BlueDart,Sea,1062,48,Rain,Low,Delivered,63,7/17/2025
+239,a465b005-6e8a-4da3-8f50-3d509eba7edc,Pueblo Nuevo,Kadujajar,Delhivery,Air,1767,56,Rain,Medium,Delivered,1,2/17/2024
+240,ef8a8797-4e6c-475b-9808-6b243b064cf0,Kemlya,Bošovice,FedEx,Rail,2854,4,Clear,High,Exception,26,6/3/2025
+241,e6f162c0-aa48-4afd-8859-c8c833cfb389,Datuan,Anhai,FedEx,Air,2947,13,Rain,Low,In Transit,16,9/15/2025
+242,acbc6131-b9cf-4bcd-8886-bb04758c9d9d,Nong Phok,São Bento do Sul,Delhivery,Rail,549,82,Rain,High,In Transit,3,11/18/2024
+243,0a93789c-2e4f-488f-a7c5-8be9fecd3edd,Nanao,Beopwon,DHL,Rail,2618,74,Rain,Medium,Delayed,42,2/24/2026
+244,d08849c4-c447-437a-85bf-015136e9f4e9,Cambuga,Gulyantsi,UPS,Air,1154,44,Rain,Low,Delivered,5,8/20/2025
+245,52296232-ee43-4f71-a0f2-4a211ce19d29,Mahaica Village,Gayamdesa,DHL,Road,548,42,Rain,Low,In Transit,49,6/27/2025
+246,c7077b09-ed67-4d57-ad8a-4b62fca73a61,Novopokrovskaya,Qingyun,FedEx,Sea,2060,92,Heatwave,Low,Delayed,11,3/7/2026
+247,b6612e56-1e5d-41dd-8397-b9bc1b58f6d7,Boston,København,Delhivery,Rail,1195,18,Rain,Medium,In Transit,48,7/23/2024
+248,016dccad-3941-41fd-b58f-7c7d9ca74776,Sangojar,Sergokala,UPS,Rail,2917,97,Rain,Low,Delayed,21,6/29/2024
+249,83cfc656-b92d-4889-9494-31ca7a74310a,Masallātah,Qingyang,UPS,Sea,559,14,Rain,High,In Transit,27,2/14/2026
+250,419647da-a0fe-4d19-9379-e6027d317c4e,Sinjai,Xingyi,DHL,Rail,2548,18,Fog,Medium,Delayed,59,9/9/2024
+251,700e209a-fd21-48a7-a9c8-9e4fae5ab8b0,Ica,Huanggang,Delhivery,Road,107,99,Rain,Medium,In Transit,14,4/10/2024
+252,d76eb18f-5f28-4913-9026-a44ccf022f8e,Zhangcun,Polešovice,DHL,Air,2433,34,Fog,Medium,Delayed,48,2/9/2025
+253,b6f9e150-a345-4232-a0cd-d16010529b45,Torkanivka,Duas Igrejas,DHL,Air,387,35,Rain,Medium,Exception,5,6/21/2024
+254,7c36d313-57bf-43c6-a7cb-d0dbcbbb0ccb,Hamilton,Horki,BlueDart,Sea,2678,81,Storm,High,Delivered,2,11/5/2024
+255,6acafc79-f016-4662-90db-959a510a4b13,Amper,Shahe,DHL,Road,2621,50,Heatwave,Low,Delayed,20,11/15/2024
+256,c9b5267e-1acb-428c-9bd0-2b27e87289bf,Xiejiatan,Perovo,UPS,Road,52,98,Clear,Low,Delayed,72,9/6/2025
+257,00938b2f-82ce-4282-9004-21f1b3dba3b0,Linggamanik,Cabungan,DHL,Road,1603,99,Storm,Low,In Transit,19,5/2/2026
+258,e661a4be-4e37-466e-ad58-c2604dc536f3,Auxerre,Igboho,BlueDart,Air,2447,45,Heatwave,High,Delivered,18,11/5/2024
+259,5f1f172f-d280-4a98-8466-d3224c6bc94f,Apucarana,São Bartolomeu,DHL,Road,1080,59,Fog,Medium,In Transit,0,11/13/2025
+260,15b2be63-5d01-4711-bbd4-48e336a292de,Nová Paka,Frutillar,UPS,Sea,2899,94,Heatwave,Medium,In Transit,32,10/30/2025
+261,1119a472-476d-4839-acf2-2496831ee840,Goma,Sendang,UPS,Rail,1628,27,Fog,Medium,Delayed,70,12/8/2024
+262,9e48d1bd-e2ba-4bc7-a67a-ea6c32e5e8f2,Omaha,Wādī Raḩḩāl,UPS,Rail,1587,62,Clear,Medium,Exception,12,4/2/2024
+263,2085f47a-db28-4eb0-9a3e-2508c369f00c,Uddevalla,Basa,FedEx,Air,1469,71,Fog,Medium,Delayed,72,8/17/2025
+264,1b47c790-ae57-42c0-ba4f-413f29274f72,Puncakwangi,Rízoma,DHL,Road,155,14,Heatwave,Low,Delayed,38,2/6/2026
+265,3899f0d5-7c78-4313-a020-0cd31e9da4a6,Murindó,Promyshlennovskiy,Delhivery,Rail,2674,95,Heatwave,Low,In Transit,20,5/7/2025
+266,6d888fbe-bc8b-43ae-bd9e-75a656f16cbd,Borok,Sarandë,FedEx,Air,364,29,Clear,High,In Transit,23,9/17/2024
+267,cc5876c1-2acf-437f-986e-9a8d33eccdff,Kabanga,Winduraja,Delhivery,Road,2551,49,Fog,Low,Exception,16,5/16/2024
+268,20aad9bf-6127-4519-b3ec-68d9adf6218a,Chirpan,Vitarte,BlueDart,Rail,1371,93,Heatwave,Medium,Exception,38,10/4/2024
+269,f26fc14e-e32a-4a36-a4ce-e55872013789,Krathum Baen,Sitajara,FedEx,Road,2214,21,Rain,High,Delivered,33,7/12/2025
+270,501af315-5fac-4444-9523-aec7576befb0,Hanyuan,Nantian,DHL,Rail,1169,74,Heatwave,Medium,Delivered,18,8/5/2024
+271,04b57b5a-d906-41b8-b8d9-1f29f4ea719f,Starominskaya,Donji Dobrić,UPS,Sea,2678,4,Fog,Low,Delayed,25,11/13/2025
+272,fc58edb7-5833-4bac-808f-ba8a68a65bd7,Thị Trấn Nghèn,Las Matas de Farfán,FedEx,Sea,1519,44,Clear,High,Delayed,25,3/19/2024
+273,4e396cf0-4448-4a46-8b32-1c85e34c5e77,Bandar-e Lengeh,Kannabechō-yahiro,DHL,Rail,1588,51,Rain,High,Exception,37,4/14/2025
+274,e022fd43-aa67-4cf4-b25f-41f95b5ebeae,Domsjö,Kostel,BlueDart,Air,1348,17,Heatwave,Low,Exception,6,4/7/2026
+275,66b2c82e-3d7b-4488-94a6-c7442c2e2794,Tianyuan,Nazaré,UPS,Rail,617,28,Storm,Low,Exception,12,11/5/2024
+276,ee6b4011-1901-4544-a8a3-16d21ffb32e4,Hirosaki,Stockholm,BlueDart,Rail,1974,44,Rain,High,Delayed,29,12/19/2024
+277,ccfd09d9-7472-4569-aeec-0c83b5c6b573,Drammen,Banes,Delhivery,Road,221,58,Storm,Medium,Delivered,39,2/8/2026
+278,a88110dc-b21f-4b01-a11a-43964f1a7013,Aco,Lazeshchyna,BlueDart,Rail,222,51,Rain,Low,In Transit,63,8/5/2024
+279,c24cbdc4-5736-44d1-9130-8fccbb6654ea,Chīchāwatni,Baqiu,Delhivery,Road,605,64,Storm,Low,Delayed,29,6/28/2024
+280,6ad9871f-7b7e-415c-8b21-821565de982c,Ognevka,Santa Rosa,BlueDart,Air,405,66,Rain,Low,Delivered,28,12/29/2024
+281,3bf1aeed-bca3-43bd-9937-c971eb7ade77,Bisert’,Martingança-Gare,Delhivery,Sea,346,4,Rain,Low,Exception,16,10/26/2024
+282,e8929e03-ab56-4909-a040-a8c31a83de51,Paris 17,Non Sung,UPS,Rail,2499,74,Storm,Medium,Exception,11,3/8/2025
+283,a76f4a9d-2168-401f-80a9-cb98d138988d,San Antonio,Sukowiryo,BlueDart,Road,2274,53,Rain,High,Exception,11,4/9/2025
+284,eeac2403-aa7c-4726-8736-a1476ef91463,Nantes,Zhaitou,DHL,Rail,2260,85,Storm,Low,Delivered,70,1/17/2025
+285,c3608deb-054f-4c93-a1b5-7d90144dc63d,Calvaria de Baixo,Židlochovice,Delhivery,Road,2740,3,Storm,High,Delivered,48,8/17/2025
+286,7bdcd254-0bbd-4979-af5e-1542ead95e68,Luxor,Dejen,FedEx,Rail,1163,29,Rain,Low,Exception,63,5/5/2026
+287,a6720187-b576-43d2-bf3b-09df234c4276,Pasargunung,Santa Eulália,Delhivery,Road,175,94,Heatwave,Low,In Transit,9,5/4/2026
+288,43634e1f-0daa-46d0-9951-053581236f5a,Ansheng,Buritis,Delhivery,Rail,2261,42,Heatwave,Low,Delayed,53,11/30/2025
+289,877f3650-b5d3-4553-9085-494eb857087d,Lagarto,Smederevska Palanka,FedEx,Sea,190,18,Rain,High,Exception,52,11/25/2024
+290,548e8c28-16f0-44b7-9956-b9e20f4b1337,Khal’ch,Manjacaze,Delhivery,Road,2080,53,Fog,Medium,Delivered,70,3/10/2024
+291,bbacc98a-1825-48bf-bb49-68a2113c383d,Oslo,Hukeng,FedEx,Air,1986,91,Storm,Low,Delivered,52,1/26/2026
+292,c6a68d20-4b47-4ee3-ac33-2212b5768676,Urzhar,Budaka,DHL,Sea,2092,68,Rain,Medium,Delayed,57,2/22/2026
+293,6989fffb-ec5b-410f-b19e-040cd5fdbf0a,Hangkou,Chyšky,BlueDart,Road,1071,32,Rain,Low,Delayed,58,4/5/2024
+294,482916ba-6fef-4f8f-9c01-d2f307240c73,Tabonoc,Bejucal,FedEx,Road,2089,76,Fog,High,In Transit,35,10/17/2025
+295,cbe5dda7-e6d8-49cd-ae9d-59d5c95e6ec6,Buritis,Lokolande,DHL,Sea,291,62,Heatwave,High,Delayed,35,10/28/2025
+296,315f6a49-c47d-4128-8cc2-19f19cf5de80,San Juan Nepomuceno,Marathon,BlueDart,Road,900,58,Heatwave,Medium,In Transit,18,4/23/2024
+297,3e9b02df-efac-496e-aca2-2e168d0c3e8f,Burujul,Brejo Santo,FedEx,Road,2615,61,Storm,Medium,Delivered,26,10/15/2024
+298,2b1d184f-0824-4e32-a390-ffe6b9ab1afa,Jasienica Rosielna,Istres,UPS,Rail,1937,20,Clear,Medium,Exception,52,2/2/2026
+299,5a26671c-63f7-4422-af55-c64ab4b94ec0,Hankasalmi,Xin’an,FedEx,Air,2852,61,Storm,Medium,Exception,64,8/27/2025
+300,356a48be-44fd-4044-a4b2-f76a14bcf362,Banqiaodian,Kiambu,DHL,Rail,300,47,Heatwave,Medium,In Transit,64,5/20/2026
+301,9ae3bb49-e39a-4db7-af22-97d2d4498ae7,Radoboj,Kryvichy,DHL,Rail,2852,70,Fog,High,Delayed,43,1/10/2025
+302,79dcb997-a8b0-4dc9-ac9f-d514d4aa90ff,Hangzhou,Jiangcun,Delhivery,Rail,1013,73,Heatwave,Medium,Exception,29,3/11/2026
+303,c0a28513-c983-4ee5-8e94-3fdb27abc03c,Canghou,Rubirizi,FedEx,Sea,2619,56,Heatwave,Low,In Transit,6,4/20/2025
+304,df640ea5-138f-4281-8cc6-228bb4fe0e44,Lichtenburg,Újezd,Delhivery,Sea,968,95,Heatwave,High,In Transit,58,4/26/2024
+305,6a17b316-18bb-4a36-9835-c236bfb48854,Minzheng,Brikama Nding,FedEx,Sea,333,44,Rain,Medium,In Transit,55,8/12/2024
+306,48ebbab4-ed21-4acc-a987-43492909344f,Xiangshun,Qiman,UPS,Road,1739,87,Heatwave,High,In Transit,70,12/13/2025
+307,b8c5b643-73b2-467f-82c2-59d2028cac0b,Kakamigahara,Sharkawshchyna,DHL,Rail,315,28,Heatwave,Medium,Exception,33,7/4/2024
+308,70ab349f-4fad-4b2b-a75a-1adf5fa6d031,Francisco Villa,Kalebun,UPS,Road,380,28,Storm,High,Exception,28,7/31/2025
+309,2875b766-c4b9-4dff-bc72-99cb9ae54d5e,Mambalan,Klemunan,Delhivery,Road,1503,1,Clear,Low,Delayed,61,11/20/2025
+310,0e3e7f78-d44d-4edd-8233-700cafcafadd,La Cruz de Taratara,‘Afula ‘Illit,UPS,Rail,686,62,Fog,Medium,Delayed,30,11/6/2025
+311,76667a83-dbb3-459f-b0dd-3a1f573fadca,Dajianchang,Jayyūs,UPS,Air,2257,86,Clear,High,Exception,32,12/18/2025
+312,ca1b372d-8843-4a23-a42c-581560d7c53f,Sovetakan,Ijuw,BlueDart,Air,2812,59,Storm,Low,In Transit,45,10/25/2024
+313,f5ee8004-d15c-4b8e-816d-be94a9211e1a,Ikar,Borås,FedEx,Road,601,34,Rain,Low,Delayed,8,4/1/2026
+314,2233d99c-0e5f-4bb4-8212-ca588e3b54a9,Bartsrashen,Stepnogorsk,FedEx,Rail,574,5,Fog,Medium,Delivered,33,11/25/2024
+315,a0bb0c82-3a53-4f60-b2b9-d7b99751327c,Manaoag,Néa Péramos,FedEx,Rail,2656,49,Rain,High,In Transit,17,5/29/2025
+316,dd6d16cd-54f7-4fc6-a872-246eb78f5f1c,Gustavsberg,Mont-de-Marsan,FedEx,Road,1018,70,Storm,High,In Transit,46,8/6/2025
+317,0bf31d20-4007-4786-901d-04b05f562f51,Dadiya,Shangshaleng,BlueDart,Road,2297,23,Heatwave,Medium,Delivered,21,12/11/2025
+318,a8a56aed-a46d-4428-b36d-aeb88a26aa86,Buenos Aires,Dok Kham Tai,DHL,Sea,474,28,Storm,High,Exception,52,10/29/2024
+319,51ca9b37-a5ff-4c8d-b77d-61c51aa1e386,Librazhd-Qendër,Sabunçu,UPS,Sea,2527,61,Clear,Medium,In Transit,63,3/30/2025
+320,4a465698-c947-48ed-9df9-5eaa991e7bdd,Kopen,Ngerengere,FedEx,Rail,222,3,Fog,High,Delivered,30,4/6/2026
+321,4e92172a-83eb-4daa-b71b-a2eac6061d6c,Perre,Hanyuan,UPS,Air,169,14,Rain,High,Exception,3,2/17/2024
+322,be5c9ed7-b82c-40df-b55f-4eaf209300ff,Pitanga,Rouyuan,DHL,Sea,667,36,Clear,Low,In Transit,63,1/5/2025
+323,9612f50a-f1b7-4c64-9e56-45b0c9affe3d,Mirabel,Guantang,BlueDart,Road,2813,66,Clear,Medium,In Transit,8,1/17/2026
+324,10da0ace-604a-4fd0-9665-4035a622ef08,Sangkalputung,Saint David’s,UPS,Air,793,77,Fog,Low,Delayed,48,4/7/2024
+325,96c93c6b-483e-43e1-9e1f-2f3d7e9a4d0c,Chesapeake,Borucin,DHL,Rail,261,25,Storm,High,Delayed,8,5/27/2024
+326,5846d46a-2c4f-440b-80b1-d21f29e4e9ff,Loncoche,Jiangqiao,FedEx,Sea,1014,52,Rain,Medium,Delivered,62,1/16/2026
+327,def218dc-de4d-4365-8a02-1d46e1c5c8b9,Honoria,Cercal,DHL,Road,1139,50,Rain,Low,Delayed,63,3/3/2025
+328,4bfc3328-acb4-4429-bd67-df5da0061709,Ilovka,Kalmunai,FedEx,Rail,2420,29,Rain,High,Delayed,25,10/5/2024
+329,7b353bad-13a4-455b-a480-ca4d7d1dc176,Minuyan,Bègles,BlueDart,Road,552,97,Heatwave,Low,Delivered,29,2/8/2026
+330,9974bcf9-6f97-4b18-b6cf-d7cb6602a654,Orkney,Granada,BlueDart,Road,1229,82,Fog,Medium,Delayed,38,6/22/2025
+331,e6391f46-c14e-4471-83db-4584d1612ac5,Trudobelikovskiy,Puerto Francisco de Orellana,BlueDart,Sea,2262,46,Heatwave,High,Exception,30,3/15/2025
+332,5a95a0c8-420f-4cab-9187-5ad9faec8c43,La Cumbre,Wuxia,Delhivery,Road,2878,36,Clear,Low,Exception,2,11/16/2024
+333,56356d98-fa32-473e-9535-4a667e152e97,Qiucun,Ying’ebu,Delhivery,Sea,1458,78,Fog,High,Delivered,20,11/20/2025
+334,51d0dbdd-48f6-4be1-8769-e9894f78d291,Sherwood Park,Jutiapa,FedEx,Sea,1128,4,Storm,High,Exception,47,7/23/2025
+335,442bd76e-3f00-4d2c-a9d0-50b916373861,Caen,Ash Shaykh ‘Uthmān,UPS,Sea,158,17,Storm,Medium,Delivered,8,5/31/2025
+336,8e15b849-5777-4882-87e8-b898be9480be,Kozelets’,Xiyuan,DHL,Rail,153,38,Clear,Low,Delayed,63,4/21/2026
+337,89eff992-7056-451a-9b34-3d0a88eafba4,Mozi,Seaton,UPS,Road,443,9,Clear,High,Delayed,11,1/19/2026
+338,eaad21a1-fe54-4eda-b215-1e56305ef206,Mesquite,Mós,UPS,Sea,2916,1,Storm,Medium,Delivered,13,8/29/2024
+339,8f6686c3-0281-41ff-a1b8-161e31a7bcba,Huyang,Lazaro Cardenas,Delhivery,Road,1008,73,Rain,High,Delivered,60,10/26/2024
+340,4cdf7824-278d-444b-a19d-95d65483dd03,Huangqi,Águas Belas,BlueDart,Air,1851,19,Heatwave,High,Delivered,70,12/6/2024
+341,8d87cc03-153d-48f4-9534-aa0670be40e1,Saint-Rémi,Borås,FedEx,Road,1212,88,Fog,Low,Delayed,38,4/10/2025
+342,321e23c1-92f6-4346-b9a0-7605b4288c26,Sundbyberg,Gjirokastër,UPS,Road,2693,8,Storm,Medium,Delayed,65,8/1/2025
+343,2d30552e-9311-4f27-88ae-03d7337b8c8c,Torbeyevo,Uppsala,Delhivery,Air,365,17,Heatwave,Medium,Exception,63,2/18/2025
+344,6fce4216-c6c7-4e57-b5a2-dec98b193335,Tenkodogo,Älvsjö,UPS,Road,1652,70,Fog,High,In Transit,22,1/24/2026
+345,e8b5080c-9720-490c-a8c1-58e1cfafa65c,Gorno-Altaysk,Cujillo,FedEx,Sea,411,6,Storm,High,Delayed,31,7/11/2025
+346,56b6afd5-50d6-401b-8b0a-13d492cf288a,El Banco,Macaé,DHL,Air,2708,63,Heatwave,High,Delivered,12,9/6/2025
+347,c204c7de-125b-4ba5-82c0-bb1c04e083b5,Guyancourt,Al Bawīţī,DHL,Air,2693,79,Clear,High,Delivered,11,9/27/2025
+348,85c485b5-bb9f-41b9-a96f-7806ae3dd188,Aldeia de Além,Atalhada,FedEx,Rail,2808,25,Heatwave,Medium,Delayed,51,1/29/2026
+349,61207156-50e5-4dfd-b0d4-3f0d5aaa10f5,Sumbe,Moshiyi,FedEx,Sea,2308,96,Clear,Low,Exception,33,4/7/2025
+350,ad2e69bd-aad0-4af9-b734-a87cb6cfcaf1,Otradnoye,Strel'na,Delhivery,Road,2281,87,Fog,High,Exception,67,7/28/2024
+351,21141bda-6206-4787-a516-32828230458a,Dagur,Kungshamn,DHL,Sea,2759,31,Heatwave,High,Exception,28,11/13/2025
+352,bd07d00f-bebf-4544-919a-8667c663d45d,Washington,Frakulla e Madhe,DHL,Rail,1039,41,Storm,Low,Exception,43,6/29/2025
+353,bbbccf0c-49bc-42c2-9db8-d0da57f671ce,Vári,Ararat,UPS,Air,2150,30,Clear,Low,Delivered,36,12/29/2025
+354,88a28972-9600-46af-8579-48adaa0af3d3,Sŭedinenie,Al Jamīmah,DHL,Road,2857,32,Heatwave,Medium,Delayed,6,10/27/2024
+355,ec85c0e1-c1da-47bd-a913-49ca9fbe943e,Laocheng,Hondo,DHL,Rail,1978,24,Rain,Low,In Transit,40,7/2/2024
+356,994a916a-867b-45e8-ada2-beb103a9d8d7,Don Chedi,Hougaoshizhuang,FedEx,Air,1476,14,Storm,High,Delivered,35,5/2/2026
+357,a2e9e0e1-c12a-45cb-a13b-46845cfb635f,Novo Hamburgo,Bojong,DHL,Sea,353,51,Heatwave,Low,In Transit,69,11/11/2025
+358,681f2bd0-29cf-4cc8-bcdd-a3e198d6d0d3,Balangiga,Zizhao,UPS,Road,474,72,Fog,Medium,Exception,51,10/29/2025
+359,fd9ea2cf-ff6d-4e21-a9c5-58509ead8f85,Villa Aglipay,Marseille,FedEx,Road,2328,25,Heatwave,Medium,Delayed,36,7/25/2025
+360,724a6df0-9f27-4f84-ab42-dcf7ed454482,Jagong,Illintsi,Delhivery,Road,2133,36,Rain,High,In Transit,19,10/29/2025
+361,b577fe63-73be-4a67-add4-c4593d87852b,Saint-Pierre,Qingshui,Delhivery,Air,2344,50,Heatwave,High,In Transit,33,10/8/2024
+362,bd308663-6353-4c9f-ae2b-59c3280cd400,Badong,Jalingo,DHL,Sea,2968,16,Rain,High,Exception,33,11/28/2025
+363,83e5a713-1e06-445f-8351-38cdf9e810c7,Huangfang,Mazyr,UPS,Road,1356,24,Storm,Medium,Delayed,7,2/16/2024
+364,65df9aaf-828b-4bb3-9c1c-c28f9f7cfc0e,Thị Trấn Yên Ninh,Calheta,UPS,Rail,875,60,Storm,High,Delivered,40,10/22/2024
+365,f25e14eb-23ac-4ba0-aa70-3c6965be29a5,Milwaukee,Songnim,UPS,Sea,2817,68,Storm,Medium,Delivered,21,2/7/2025
+366,a14e8fcf-e877-418c-9087-6f8753cb4954,Ljungby,Bertioga,DHL,Rail,1037,73,Clear,High,In Transit,8,5/21/2026
+367,a3a7d19b-5258-409b-9a61-bd45423d8c34,Skovorodino,Arnoia,Delhivery,Road,2476,31,Clear,Medium,Delayed,20,9/14/2025
+368,a075e0de-c6a9-4731-9234-5cfae7aed8a4,Buenavista,Kozelets’,UPS,Sea,1762,17,Heatwave,High,Delivered,72,11/15/2024
+369,23a88816-abd1-4ede-bbc4-6aec32148c5a,Zorak,Tycheró,DHL,Rail,894,9,Fog,Low,Exception,17,12/27/2024
+370,205ed380-cea2-4444-b560-49e948bffbca,Neundeut,Stodolishche,FedEx,Rail,2313,66,Storm,High,Delayed,30,7/6/2025
+371,c8e49b10-a99d-42e3-bb1c-5d98e2116311,Liuhe,Kliteh,UPS,Air,1681,97,Rain,Low,Delayed,49,7/26/2024
+372,976d2fdd-4462-45ac-a734-cc5922a0ff80,Ōkawa,Afikpo,BlueDart,Road,2032,37,Clear,Low,Exception,18,2/26/2024
+373,66618012-b5f4-4d8b-8da0-f29db48a3a46,Papringan,Bariri,UPS,Rail,2323,81,Heatwave,Low,Delayed,12,3/8/2024
+374,eacf7013-3560-4951-852c-6a0533f00a45,Cavinti,Sumbuya,BlueDart,Rail,969,96,Fog,Low,Exception,18,4/18/2026
+375,c22104dc-c5b0-416f-9a72-a27907e6e3e6,Saint-Germain-en-Laye,Makīnsk,BlueDart,Rail,2204,23,Clear,Low,Delivered,71,12/18/2025
+376,9eba5e92-1e7a-42ab-bc0e-d82b269ce2c1,Mulhouse,Jinchang,FedEx,Rail,1828,16,Storm,Low,Delayed,9,7/9/2025
+377,57e0f07f-027f-4dbe-9c5a-2e85db0f6115,Campos,Guyang,UPS,Sea,1955,87,Heatwave,Medium,In Transit,48,3/12/2025
+378,233191c9-d36a-473c-8aaa-9c6704a2b5bb,Caculé,Probolinggo,DHL,Road,1452,31,Fog,Low,Delayed,64,5/29/2024
+379,ae7ed44f-1569-4a2e-94fc-1b37f9186d59,Tembayangan Barat,Sollefteå,DHL,Rail,2707,3,Storm,High,Delivered,68,9/10/2025
+380,a1cced8d-b7a4-44e9-8c50-528739d8d3a9,Gubengairlangga,Kimch’aek-si,Delhivery,Sea,643,15,Rain,Medium,Delivered,12,7/31/2025
+381,188d57c4-7cb8-4b3e-b630-fde27035f27b,Ning’an,Bokkos,DHL,Rail,2729,5,Fog,High,Exception,70,5/19/2026
+382,dc40220e-6537-460c-9f6a-b33937cff879,Tegalwero,Shiyan,BlueDart,Air,2823,76,Fog,Medium,Delivered,30,6/30/2024
+383,6d2927d9-e860-4145-afdb-2c051760d608,Cincinnati,Uitiuhtuan,DHL,Rail,2979,41,Rain,Medium,Delayed,69,9/3/2024
+384,1a2612f6-a005-4d72-a9ce-c37de691773f,Krajansumbermujur,Watsa,UPS,Road,2342,80,Rain,High,Delayed,22,3/19/2025
+385,e4d1de8a-3c28-4386-8c72-af7f7b98cf68,Bajia,Áyios Yeóryios,FedEx,Rail,1743,13,Clear,Medium,In Transit,55,7/27/2024
+386,5c1f979c-7353-403e-81c3-6b0946ee558c,Mishima,Sekarjalak,UPS,Rail,1734,20,Clear,Low,Delayed,43,2/23/2026
+387,bf4298cc-16f2-4375-9d16-60ca582929e7,Santo Tomas,Wielgie,FedEx,Sea,1404,14,Heatwave,High,Delivered,10,6/20/2025
+388,b0302a79-1bd2-4df6-95e4-7669b338445b,Milano,Narong,Delhivery,Sea,1210,83,Rain,Medium,Exception,35,8/11/2024
+389,c4d64019-ca3d-417d-a339-7ad65acc5998,Cergy-Pontoise,Nantes,Delhivery,Air,311,68,Storm,Medium,In Transit,22,7/8/2025
+390,42f21d44-1f6e-4928-a03a-35850ab999ed,Haymā’,Matango,FedEx,Road,2958,78,Heatwave,High,Delayed,62,2/1/2026
+391,a0c4edc7-cde9-469f-980f-8841d84cb5ed,Virden,Magsalangi,DHL,Sea,1807,84,Rain,Low,Delayed,57,2/2/2026
+392,75a9b8eb-0238-40d7-a4c7-6f084b028447,Khānewāl,Santa Luzia,UPS,Air,1130,91,Clear,High,Delayed,59,7/30/2024
+393,b4557cf5-4373-4ba0-bdfc-bcf0d5edae82,Shanmuqiao,Campamento,FedEx,Road,1034,18,Heatwave,Low,Delayed,57,2/26/2025
+394,fe93706b-fb44-435d-8b13-12639ce61893,Caridad,Marčelji,UPS,Air,2818,30,Heatwave,High,Delayed,22,4/9/2025
+395,2c2b9588-882b-4516-933d-c6fe413e50e0,Paris 16,Bojongnangka,Delhivery,Air,2408,2,Heatwave,High,Delivered,36,7/18/2025
+396,5c66bdd8-e7b9-4eef-9515-c4a11bb1ec24,Guri i Zi,Chon Buri,Delhivery,Sea,2176,74,Storm,Low,In Transit,26,2/15/2026
+397,82dc3667-e1c1-47ff-96cc-2d3c9ba5e453,Kasama,Pitrufquén,FedEx,Sea,2853,84,Rain,Low,Delayed,60,5/3/2024
+398,292a87f3-5e6b-45aa-a0da-2ee6c4e1b25a,Ñuñoa,Riah,DHL,Rail,2385,3,Storm,Medium,Exception,52,1/5/2026
+399,70e4595f-5a73-40d2-ade1-aef07df27a3d,Malangabang,Esquel,UPS,Sea,2743,10,Rain,Low,Delivered,6,1/7/2026
+400,de57a9bf-41fe-4cc0-9c3d-0ca0c6e5ba82,Huanshi,Naviraí,BlueDart,Air,1399,34,Heatwave,Low,In Transit,18,8/26/2025
+401,ca5a3548-6d09-45ad-a0b9-a7020dee151e,Moncada,Kayl,FedEx,Road,2618,48,Fog,Medium,Delayed,50,8/18/2024
+402,179d1748-5f0d-4413-b541-567e550e93f3,Jujur,Bosobolo,FedEx,Rail,432,71,Storm,Low,Exception,24,5/6/2026
+403,3f247939-b751-4c9a-8fd8-5e6b6dd2515d,Pasarbaru,Zyuzino,Delhivery,Rail,995,77,Clear,High,Delivered,54,1/17/2025
+404,68e5e6f6-1e58-45e9-a355-a5443dfb8a6c,Jishigang,Cikuray,UPS,Air,1795,14,Storm,Medium,Exception,35,2/15/2024
+405,9f3e2dbc-b9f7-44cb-9833-a789c4710d16,Mahong,Kairouan,DHL,Sea,1091,81,Heatwave,High,Delayed,53,1/31/2026
+406,146169aa-380e-4786-8604-82726dccfb84,Choushui,Burgos,DHL,Sea,99,16,Clear,High,In Transit,63,2/5/2026
+407,900e507d-c710-4d60-a151-2aa567a85bd5,Niaohe,Villiers,FedEx,Rail,2885,47,Storm,Medium,Delivered,1,11/13/2024
+408,e2befc7f-6c02-465e-9807-63daeb836d97,Suure-Jaani,Agbannawag,FedEx,Road,1396,2,Rain,Medium,Delivered,48,10/5/2024
+409,f1072147-1888-4ccc-b823-eaf9348e9b8a,Delvinë,Chirongui,BlueDart,Rail,1750,44,Fog,Low,Exception,10,10/21/2024
+410,6174144f-8ca8-4950-becf-1a01419f0488,El Tambo,Liudu,DHL,Air,650,97,Fog,High,In Transit,8,11/11/2025
+411,bbc0acd3-9df0-4907-90b5-9f0b81b4ed87,Kasoa,Zhulebino,UPS,Sea,1563,79,Fog,Low,In Transit,52,6/11/2025
+412,c11ba463-f9ab-4aa9-9678-7be35d250aeb,Rafaela,Reutlingen,UPS,Sea,702,75,Storm,Medium,Exception,12,8/19/2024
+413,73f5b8df-41a7-45b0-b210-830a5dd2972f,Farkaždin,Manama,Delhivery,Air,1369,72,Clear,Low,Exception,25,3/4/2025
+414,6809bed0-72a9-4848-adf0-7f114aca2628,Xiongzhang,Nioro du Rip,UPS,Sea,788,1,Heatwave,Low,In Transit,30,7/2/2024
+415,d61e1113-a798-41c1-952d-ccc643e6eb42,Dengmingsi,Sinchao,BlueDart,Air,1889,18,Rain,High,Delayed,27,2/17/2024
+416,a457f117-93ef-467e-bad7-e9f388711375,Carson City,Birātnagar,UPS,Sea,2912,14,Heatwave,High,Exception,11,5/9/2024
+417,434541c1-3d0f-4d3e-a5d7-3367ea68b2af,Jardoeira,Los Angeles,BlueDart,Rail,2870,16,Clear,Medium,Exception,59,2/4/2025
+418,e6362a75-154e-4c92-98b1-e1443a12124d,Samanggen,Tlumach,DHL,Road,2437,66,Storm,Low,Exception,28,3/1/2026
+419,56e4f087-eb67-4515-8ded-4563efb59db3,Padangtikar,Poste du Lac,BlueDart,Air,1447,81,Fog,High,Exception,25,11/22/2024
+420,a40dfe79-8267-4fd1-99a7-4990972c7085,Taoyuan,Qianzhou,UPS,Road,1897,55,Clear,High,Delivered,23,4/12/2024
+421,d90f8ea4-024a-478b-a718-8649e959e6c6,Nūr,Korenëvo,FedEx,Sea,1113,2,Fog,High,In Transit,58,11/16/2024
+422,17b6b88a-4909-4cb1-8097-b4b00c37f0fd,Sidomulyo,Birqīn,BlueDart,Road,117,18,Fog,Low,Delivered,23,12/1/2025
+423,31ded2ae-eb3c-4c15-9f65-8d992fb36823,Urkarakh,San Jerónimo,FedEx,Air,1516,32,Clear,Low,In Transit,25,3/17/2025
+424,77382df4-fb5f-4cec-b947-2870d092739b,Chahannao,Julcamarca,UPS,Rail,517,38,Fog,High,In Transit,35,3/24/2026
+425,4e1f4222-7ec5-4b50-9823-9cc413c502d1,Luzhou,Saint-Gaudens,BlueDart,Sea,1654,42,Rain,High,In Transit,71,9/28/2025
+426,972416b2-79a3-486e-a621-613a65fc3723,Berbera,Xiaoling,UPS,Road,2253,95,Rain,Low,In Transit,31,3/9/2026
+427,987833b4-14d7-40bb-9cc0-a9d481f5f00c,Miragaia,Encantado,Delhivery,Rail,2010,22,Clear,Medium,Exception,7,3/3/2025
+428,26cbbc83-1615-4d5d-b1a2-4c1c9ffe7854,Chavães,Cagdianao,UPS,Air,1766,69,Clear,Medium,Exception,66,3/22/2024
+429,6c3b8ec9-7ea3-4dc6-839e-dac83e830a89,Zīrakī,Catriel,Delhivery,Road,666,65,Clear,Low,In Transit,56,11/9/2025
+430,6ee06bc5-fc24-428f-9169-70d568022d3f,Malinovskiy,Lowotukan,UPS,Road,882,79,Fog,Low,Exception,10,8/30/2025
+431,c565c80b-08f1-467f-9fde-6c0516cb38ba,Targanice,Jaguaribe,BlueDart,Air,657,28,Clear,Low,Delivered,14,5/16/2025
+432,081d320f-24e9-4f2e-bac8-1e95d17b4f35,Raffingora,Oebaki,DHL,Air,1936,76,Heatwave,High,Delivered,58,2/16/2025
+433,d323ecd3-90ee-4393-b36f-6d820e5a52f4,Richmond,Wiślica,Delhivery,Road,1851,4,Fog,Medium,Exception,50,7/19/2024
+434,393a6062-6dc0-4a92-bbb4-ca6198f7d6d6,Wiset Chaichan,Caihe,UPS,Sea,1875,25,Rain,Low,Exception,60,12/4/2024
+435,6b43107b-f4d4-41d4-a60d-abd8ed4204e8,Pakel,Uitiuhtuan,Delhivery,Rail,1381,69,Heatwave,Medium,In Transit,41,5/27/2024
+436,15f1522b-3e47-4f29-872e-1a731fc5b970,Llauta,Wu’erbu Baolige,UPS,Air,1224,77,Rain,Medium,Delivered,53,5/31/2024
+437,43a33e8c-31db-4caa-9b4c-1b8961ed774b,Ludwin,Tonglin,BlueDart,Rail,2630,75,Fog,Medium,Delayed,26,8/20/2024
+438,a4604b2b-8435-48bc-8b0b-19adb3bc76e9,Mollas,Guimarães,BlueDart,Road,2084,61,Clear,Medium,Exception,16,3/24/2024
+439,a648a061-f7c7-4018-b59b-1dfb4c9c1a87,Burgos,Santa Lucía,Delhivery,Rail,1088,35,Heatwave,High,Delivered,20,3/17/2026
+440,4dbfbe7c-9387-4243-8e0e-319fa7fe745d,Kobilje,Suay,BlueDart,Sea,1156,43,Heatwave,Medium,In Transit,54,5/23/2024
+441,3f35149e-e275-49f5-93f1-edbf07342d64,Jiangtou,Huangqiao,UPS,Sea,2521,25,Rain,Medium,In Transit,67,1/17/2026
+442,0af19f84-ce25-4375-85c3-6a9b3b7e05b7,Kaffrine,Nūrābād,BlueDart,Road,2533,66,Fog,Medium,In Transit,48,10/9/2025
+443,74f9bb27-2c83-499f-a0a0-d7ec46d6f637,Reforma,Néos Oropós,DHL,Air,1164,52,Clear,Medium,Delayed,71,1/12/2026
+444,6d14215f-0fdc-42e1-8112-aa43e6bec5c9,Tumba,Claveria,UPS,Rail,363,90,Heatwave,Low,In Transit,62,7/17/2025
+445,6d393b5b-e9c5-457a-9709-65c62c190c54,Colca,Longtou,UPS,Sea,2113,66,Clear,Medium,Exception,6,1/29/2026
+446,3fd835b3-297a-4bc3-a0bb-a5a666f95964,Gharavŭtí,Hongch’ŏn,Delhivery,Rail,233,100,Clear,Medium,Exception,25,12/1/2024
+447,265507f1-1e2a-43e1-927e-c3ef5fc7e42d,Yong’an,Zhetang,FedEx,Road,1989,54,Heatwave,Medium,In Transit,34,9/1/2024
+448,2a051395-caec-48fe-b56d-ec07b02c64ce,Kota Kinabalu,Jingling,BlueDart,Road,2648,94,Clear,High,Delayed,57,1/21/2026
+449,b7998bc9-d019-43b4-aeb6-41e2dcd35e1b,Changsu,Si That,BlueDart,Sea,2435,24,Rain,High,Exception,66,12/10/2025
+450,b7065a06-41d9-4b09-b7a7-28a7f01c2626,Altares,San Diego,Delhivery,Sea,482,88,Storm,Low,Delayed,2,11/11/2024
+451,c5fe6168-0d12-4c73-9dd9-815ec7e2a041,El Águila,Murmino,UPS,Rail,1135,40,Storm,Medium,Delayed,60,11/18/2024
+452,5358ac10-804d-47f1-b99a-5cf99015ec78,Nyalindung,Dingle,Delhivery,Air,1581,55,Heatwave,High,In Transit,69,8/12/2024
+453,ef74f0c7-a93a-4b28-8ab6-8e2510aca787,Kyzyl-Oktyabr’skiy,Frashër,Delhivery,Air,108,15,Storm,Low,In Transit,3,12/27/2024
+454,ec56a780-f3a1-4dab-8247-501b652e1fb8,Itajuípe,Sison,DHL,Road,237,64,Clear,High,Delivered,30,7/24/2024
+455,8fa6f68a-336d-443a-a1b8-be822c6c0bd1,Darfield,Barguzin,BlueDart,Rail,2178,53,Rain,Low,In Transit,40,7/25/2025
+456,5ba8284d-2107-406f-97e0-defd4ca624a1,Kazinka,Evinayong,Delhivery,Rail,1775,5,Rain,Low,Delayed,12,11/19/2025
+457,1725a006-5dc9-4940-9199-3657f52ffac9,Zangzhai,Yoshida-kasugachō,DHL,Air,1265,83,Storm,Low,Delayed,38,2/6/2026
+458,48fb2cc1-e889-4b6e-928f-df777aa79b68,Xuancheng,Tupambaé,UPS,Rail,1882,18,Rain,Low,In Transit,54,7/16/2025
+459,706026b0-232a-4f5b-9b8e-ea7c3a3d971f,Tópaga,Rantaupanjangkiri,FedEx,Sea,1255,17,Clear,Medium,Exception,42,2/6/2025
+460,e64e17e3-ccac-44bf-b39a-f11baf3d7b75,Jiufeng,Maodao,BlueDart,Rail,274,74,Heatwave,Low,Delayed,68,7/31/2024
+461,047cb6fa-8d03-4558-8032-a5cf43edf533,Qiujima,Kalijeruk,FedEx,Rail,1583,73,Rain,Low,Delivered,32,6/24/2024
+462,e9a55c01-2aa3-433a-93e5-8d7c5dc5352a,Bendo,Jiulong,BlueDart,Rail,2675,97,Heatwave,High,In Transit,43,4/18/2026
+463,2ab0c905-986a-4d23-acd3-cd35c52f183b,Pingyin,Taiyanghe,Delhivery,Air,1600,27,Fog,High,Delivered,50,6/16/2024
+464,9022ead0-7d69-4789-9103-d38e17e83d32,Kallithéa,Municipio de Copacabana,BlueDart,Sea,353,79,Heatwave,Medium,Delayed,43,8/30/2024
+465,55dfafa1-6153-4d5c-a847-32ee26c9e97a,Bayside,Enewetak,BlueDart,Air,1488,76,Rain,Medium,Delivered,54,6/4/2024
+466,9b86fb40-b63c-47db-aa81-ba66790bbdc8,Noisy-le-Grand,Caohe,DHL,Air,2652,29,Heatwave,Medium,In Transit,63,11/1/2024
+467,94fc1f9d-2652-45cb-9d61-e2c2c67fd3c6,Nice,Non Sung,DHL,Air,108,46,Rain,Medium,Exception,67,3/25/2025
+468,e09f6c94-a0dd-4ca8-b588-af350c9b8a32,Maoyang,Cikayas,FedEx,Road,615,27,Fog,Medium,Delayed,3,11/29/2024
+469,ebd5c503-db2b-4d4a-868f-3f259dfec6c0,Konza,Areni,DHL,Sea,1299,43,Fog,High,Delivered,33,7/17/2024
+470,6f022248-1a1d-4ba9-8416-508c94e70d36,Kwolla,Bethlehem,UPS,Sea,2851,88,Fog,High,Exception,1,12/10/2024
+471,42beec04-1d05-42dd-96e7-f1ba4b110365,Khadan Khāk,Pingtang,BlueDart,Rail,447,43,Storm,Medium,Exception,0,1/6/2026
+472,434d65c2-498f-446e-9013-fc9ad7de2e14,Kedungwringin,Batu,FedEx,Rail,126,54,Clear,Medium,Exception,24,1/2/2025
+473,9d36eafd-646a-4580-9aea-b63c169460ff,Ngancar,Ochakiv,Delhivery,Road,1189,49,Storm,High,Delivered,48,12/17/2025
+474,c56d2e49-243d-49e8-a921-3b2475d96a81,Ejmiatsin,Starokucherganovka,FedEx,Road,2118,29,Rain,High,In Transit,24,6/8/2025
+475,962b95f8-dc3c-4cea-b64d-8104ffcdd690,Dorchester,Stěbořice,UPS,Sea,2832,64,Fog,Low,Delayed,49,8/9/2024
+476,6dcf3bf3-33a6-427f-9e9f-5d5be358e72e,Cemara,Żyraków,UPS,Sea,976,96,Storm,Medium,In Transit,15,2/18/2025
+477,393e2807-44d2-42c7-a8ec-22ee1369a5ee,Itanhandu,Krasnotur’insk,UPS,Sea,819,28,Rain,Medium,Exception,36,4/9/2025
+478,985fad25-4d81-4f06-ae10-878fb4a48a04,Sanlidian,Charlotte,FedEx,Sea,1858,72,Fog,High,Delivered,0,8/30/2024
+479,4b5a43ce-fe04-4632-a0fc-8219fd9b5f36,Tibati,Cogtong,Delhivery,Rail,262,29,Heatwave,Low,Exception,29,1/12/2026
+480,317e4dd1-ddb6-4cf5-ab17-2ac5ead5a81a,Ershilipu,Rufino,Delhivery,Rail,143,53,Heatwave,Medium,Delayed,66,8/4/2024
+481,82b8acd1-c6aa-4523-af4f-9f6d47d8c11c,Trpinja,Dobryanka,Delhivery,Road,1410,22,Storm,High,Delayed,24,5/13/2024
+482,429b125a-ff9b-4284-bc16-ed8749930c0f,Drobin,Tojeira,FedEx,Rail,2692,17,Clear,High,In Transit,56,2/22/2024
+483,6f755887-62eb-483d-b71e-a9bc7d4f2ba9,Vitim,Wanghu,FedEx,Air,58,62,Heatwave,Low,Exception,31,10/24/2025
+484,d5e01ca8-0512-460a-b3e3-1bf8b0263513,Ash Shajarah,Al Buţayḩah,FedEx,Road,1725,33,Rain,Medium,Exception,39,6/4/2025
+485,b833d1b4-a4fb-4b93-8170-7525a42ec729,Kíti,Sandnes,FedEx,Rail,2316,44,Heatwave,Low,Delayed,6,3/18/2025
+486,e5801010-911a-46b0-a7bf-be3dfaf255f1,Sibulan,Bromma,BlueDart,Air,1436,98,Fog,Medium,Delivered,1,11/14/2024
+487,a5f2eaa5-459c-48a7-97ff-cc7187d0cc19,Houston,Campelos,BlueDart,Air,2740,29,Rain,High,Delivered,48,5/20/2024
+488,c123e63a-0f30-436c-8ed2-a1f70cd9b42a,Aguilar,Qadsīyā,UPS,Road,1867,94,Clear,High,In Transit,49,12/8/2025
+489,0e00c40a-9084-49c0-9400-5e3bf62763b8,Longsheng,Ungaran,FedEx,Rail,2906,58,Rain,Medium,Exception,45,8/4/2025
+490,c0180561-62b8-4585-ac95-137684492f30,Paraisópolis,Gaoliang,Delhivery,Air,668,11,Heatwave,High,Exception,57,6/29/2024
+491,c4a7edfc-a7b1-43d7-9cf7-b6956e4bdb1e,Lusacan,Caicedonia,DHL,Air,2614,50,Heatwave,Low,Delivered,0,3/23/2024
+492,0714edf1-2b94-420e-bb5d-d40db9f7f5a7,Eisen,Wierzawice,FedEx,Road,1585,89,Storm,Medium,Exception,6,6/23/2025
+493,5cc5e562-70a9-43d3-a1c2-b8db727fcc08,Pende,Aketi,BlueDart,Sea,2405,90,Clear,Low,Delayed,9,12/1/2024
+494,0acbe407-803d-4a26-9274-b469f301427f,Tacoma,Melaka,FedEx,Sea,1122,16,Fog,Medium,Delayed,7,5/4/2026
+495,3d8e105d-c388-4c4b-af82-5f3adf9c787c,Independencia,Yumbe,Delhivery,Sea,2464,84,Fog,Medium,Exception,26,5/9/2025
+496,89d7afd6-1617-4f53-b644-a2103b078f96,Orzech,Panagyurishte,FedEx,Rail,2395,44,Clear,High,Delayed,53,1/13/2026
+497,436a3371-7587-4dc2-93a9-955ff8aaf919,Baizhang,Chai Nat,BlueDart,Road,934,71,Rain,High,In Transit,39,11/16/2024
+498,d0396154-f3f6-46c7-b73f-9a09f271fa86,Novo Horizonte,Kabongan Kidul,UPS,Road,526,14,Heatwave,Low,Delivered,37,2/19/2026
+499,2e5d1efc-bfa6-449b-af1c-75d253e0b338,Lobitos,Springfield,UPS,Air,429,18,Storm,High,Delivered,69,11/30/2025
+500,11e14393-f168-42e4-8041-8a6f26606fe0,Kumla,Athi River,BlueDart,Rail,1331,42,Heatwave,Low,Delayed,67,2/1/2025
+501,aa50fa02-0889-4d0f-b743-f1a8b4a2ba47,Storozhnytsya,Dabou,UPS,Sea,2367,49,Fog,Medium,In Transit,50,11/14/2025
+502,b8f13abd-09d3-49b5-89ea-8d49204bfe71,Tarrafal,Ōkawa,Delhivery,Rail,2688,29,Heatwave,High,Exception,42,8/23/2025
+503,c47d2e11-1d1f-4684-a313-5de14fef3f4c,Misasi,Xuxiake,DHL,Rail,531,50,Storm,High,Exception,23,3/29/2026
+504,8fa2f972-7505-4ccc-9e4b-acc7f14de7b9,Lanta Timur,Kowary,Delhivery,Rail,2833,28,Fog,Low,Exception,19,8/2/2025
+505,2d45f64b-b8f7-4058-8775-536feee35d5a,Vällingby,Tam Kỳ,BlueDart,Rail,761,28,Rain,Low,Delayed,60,5/11/2026
+506,c31b6b56-4280-4959-b387-134744c4f03a,Ad Dilam,Ängelholm,UPS,Rail,2727,83,Rain,Low,Delivered,53,3/20/2024
+507,d122eb20-cfd9-4ed7-95f3-0f67930e8d5f,Debesy,Sinfra,FedEx,Road,2746,75,Clear,High,Delayed,59,11/17/2025
+508,e26575b0-a458-4530-8e66-9751f9e2e72f,Bakıxanov,Caçador,BlueDart,Rail,353,17,Clear,Low,In Transit,44,5/30/2024
+509,1369c83c-0570-4c3d-be0c-c40bc3f2ad9d,Malaya Dubna,Los Charrúas,DHL,Air,264,2,Heatwave,Low,Delayed,31,12/21/2025
+510,cf939e96-4cbb-40f3-b33b-395014fb415b,Xunzhai,Baomin,FedEx,Rail,2848,19,Heatwave,Medium,Exception,35,10/28/2025
+511,b30a9fd2-6a0a-4dc9-96e5-d9fd161ca8c6,Sai,Skalat,Delhivery,Road,1595,36,Heatwave,High,Exception,52,4/6/2024
+512,dd6641af-93f4-42bc-a6ff-b0ef65097c8a,Boston,Xicheng,DHL,Sea,982,86,Fog,Low,Delayed,30,2/28/2024
+513,45953675-8d9a-44f4-abec-0592fb84c9de,Rokiškis,Mūḩ Ḩasan,BlueDart,Rail,2249,74,Fog,Low,Delivered,37,12/6/2024
+514,cf5ff2ca-ff83-4f69-a40c-5c0087f52676,Ресен,Biaoshan,DHL,Air,2223,14,Heatwave,High,Delayed,14,4/24/2025
+515,332d761d-2a23-41af-afff-e41e9bc7631d,Mahalapye,Montpellier,Delhivery,Rail,303,96,Fog,Medium,Delivered,65,6/28/2024
+516,2bbb0163-610f-4e6e-9950-206363e723ed,Sondo,Dongming,UPS,Road,2761,51,Storm,Low,Delivered,2,4/3/2026
+517,13b35c71-eb73-4727-bd8a-0d9aff3765bb,Cidikit Girang,Mouquim,Delhivery,Air,2142,26,Rain,Low,Delayed,41,9/21/2025
+518,b007d582-5b41-4dea-97f1-64a6ce99da62,Aegela,Jiuli,FedEx,Rail,1157,57,Heatwave,Medium,Delivered,12,8/29/2025
+519,6b2bb93a-4586-4335-a963-5614ce817f9d,Beregovoy,Jaworzyna Śląska,Delhivery,Rail,1327,40,Clear,Low,Exception,72,12/5/2024
+520,3688f8e7-da1d-4305-9d97-fbdc098ee348,Konstantinovsk,Belize City,FedEx,Air,2455,65,Clear,Medium,Delivered,56,8/11/2025
+521,0601956b-ddb5-4720-b3b2-52d28f9a4192,Mityana,Kilifi,BlueDart,Air,1957,59,Rain,Medium,Delivered,51,2/14/2025
+522,f0a1e885-e470-45f3-9653-a5bf6d8ed111,Beipai,Xinmin,UPS,Sea,1783,76,Fog,Low,Delivered,44,4/11/2024
+523,d96d88b3-57a3-412d-9f7e-119ec6267176,Jarada,Potosí,DHL,Sea,1269,100,Clear,Medium,In Transit,1,8/29/2024
+524,9da44234-9ce0-4c8a-8a78-22011c315bd9,Datian,Rättvik,UPS,Sea,787,39,Rain,High,Delayed,28,4/5/2025
+525,c46e6878-f874-4aee-b102-56366a7cfe07,Yuquan,Velas,Delhivery,Rail,2637,70,Fog,Medium,Delivered,53,2/15/2025
+526,3b10c2d1-74e1-4bbe-ab32-35d6b876d691,Pelabuhanratu,Milíkov,DHL,Road,2229,92,Clear,High,Exception,42,9/3/2024
+527,c6ae5937-dec7-40e4-942a-848b9dd4f39e,Asia,Monasterevin,Delhivery,Sea,2992,4,Clear,Medium,In Transit,60,3/5/2025
+528,fedfb2c4-c791-46a7-acde-fe48ae6b4af0,Peer,Hōfu,DHL,Sea,159,13,Heatwave,High,Delivered,62,11/5/2025
+529,faba8527-50c2-47bb-9bbb-89ec2d32689d,Kowŏn-ŭp,Hässleholm,UPS,Road,2359,9,Fog,Low,Delivered,34,2/1/2026
+530,45b33a7c-7915-4416-a299-5c226859124f,São João de Caparica,Unecha,DHL,Air,2424,80,Heatwave,High,Exception,47,4/4/2024
+531,7911b488-c8a9-4042-94fd-14ae3cdb5761,Coruripe,Girardot,Delhivery,Air,2054,61,Fog,Medium,Delivered,47,1/12/2025
+532,cf64964f-3812-49e4-aaf8-3a597eaae890,Buyunshan,Nyrob,BlueDart,Sea,2958,59,Rain,Low,Exception,28,1/31/2025
+533,ea1433ec-6ac3-4839-b3f6-30451289912c,Pingshan,Nguru,BlueDart,Sea,1823,2,Heatwave,High,In Transit,36,2/5/2026
+534,2c00d437-3167-4579-9097-a0c6f1312049,København,Moshiyi,DHL,Sea,2091,29,Fog,Medium,Delivered,6,10/6/2025
+535,bc2e2c04-947b-4fd1-bb34-cb44faffb81c,Waxi,Saqqez,BlueDart,Rail,1071,41,Rain,Medium,Delayed,66,4/13/2025
+536,1988ad3e-9967-4869-9ba4-7e814335acae,Paccho,Tabia,DHL,Rail,2023,8,Rain,Medium,Exception,71,11/25/2024
+537,437b8684-e873-4827-9395-9b24eb651978,Zyryanovsk,Kutampi,FedEx,Sea,2066,41,Clear,Medium,Exception,71,6/5/2025
+538,9b8cbf93-fb1f-4b0f-b928-0f6d42367143,Selkirk,Ārt Khwājah,Delhivery,Sea,2155,8,Storm,High,In Transit,33,8/5/2024
+539,f37c2873-013b-422f-8690-b90e8872e193,Sida,Wang Yang,DHL,Rail,1755,57,Heatwave,High,Exception,21,11/22/2025
+540,21fd0a0c-3d2c-4798-a2c5-4f3b45f545db,Ghurayd Gharamē,Jacura,UPS,Sea,2115,34,Rain,Medium,Delivered,27,3/4/2026
+541,0d0bf759-33d7-4172-bcc2-366bab6665e0,Kuala Lumpur,Daba,DHL,Rail,1590,99,Fog,Medium,Exception,51,4/3/2024
+542,37f6d785-f9be-4ca0-a072-d8a2bb38e02d,Phumĭ Véal Srê,Nanqi,BlueDart,Rail,2246,67,Clear,High,Exception,38,12/7/2025
+543,bd0b7fbe-c43f-4482-86c8-21b0db835de4,Paris 19,Baohe,Delhivery,Rail,1152,80,Heatwave,Low,Delayed,58,5/3/2026
+544,6eaacb24-fc20-40ea-98a9-5fbad7770185,Nguken,Hultsfred,BlueDart,Road,980,46,Rain,High,Delivered,49,2/5/2026
+545,ef59df52-0cfc-4e7a-9646-d1c058bebbf4,Cartagena del Chairá,Peliyagoda,BlueDart,Rail,1717,12,Rain,Low,Delayed,37,2/5/2026
+546,96a19824-9dfa-4554-8778-9d61616b4717,Pershotravneve,Orange,BlueDart,Sea,1074,49,Rain,Low,Delayed,13,10/17/2024
+547,8949de14-169b-4669-9e38-72488bb33ea4,Minzheng,Leidian,DHL,Road,2391,32,Clear,High,Delivered,59,4/27/2025
+548,4a8052cd-80de-40a8-b36f-c2ace214cedf,Ashford,Sadao,BlueDart,Sea,952,90,Fog,Low,Delayed,59,2/25/2026
+549,a8bc46f5-8899-4622-ab14-ea727012a49a,Jinkou,Yemva,UPS,Road,481,84,Clear,Low,Delayed,58,9/9/2025
+550,443f00cc-2793-44c1-b074-26c137a30e48,Ti-n-Essako,Goodlands,FedEx,Rail,2391,96,Storm,High,Delivered,27,7/8/2025
+551,cd282653-fd27-4a4c-9ddc-f3af1a4c728c,Thị Trấn Ngải Giao,Kuwumkumambal,UPS,Air,1595,79,Fog,Medium,In Transit,45,12/4/2024
+552,50d942f7-e4dc-4a17-9c0b-8b2191f100ff,Nueva Cajamarca,Jember,UPS,Road,1853,57,Rain,Low,In Transit,31,5/8/2024
+553,6c740a81-93e5-45b3-aadb-e4d4ec8dfbd2,Tunduma,Curuzú Cuatiá,BlueDart,Rail,1493,60,Fog,High,Exception,7,9/22/2025
+554,7df14ad4-a161-4ee4-a211-173d8644ed84,Yanliang,Postoloprty,DHL,Rail,1680,90,Fog,Medium,In Transit,12,6/30/2024
+555,d04e8889-609b-4e49-866b-26fe05d2bdd7,Prínos,Serere,FedEx,Road,472,91,Heatwave,High,In Transit,14,1/30/2025
+556,75f2feb7-2aaa-4765-aca9-76befcbd7712,Marsabit,Calçada,Delhivery,Road,935,53,Heatwave,Low,Delayed,12,3/16/2024
+557,b7dc28c8-6986-42e0-a8af-07a2b70134ff,Wielbark,Beit Horon,DHL,Road,1546,91,Heatwave,High,In Transit,13,11/27/2024
+558,58bb61ee-2612-44d0-be49-ed427428e7ef,Kaminokawa,Qianying,BlueDart,Rail,77,25,Heatwave,Low,Delayed,63,4/8/2024
+559,3368d103-5290-4e97-a18d-7542fcffca1f,Aroroy,Stutterheim,Delhivery,Sea,2352,78,Heatwave,Low,In Transit,31,1/15/2025
+560,040cd460-e16a-4937-b013-b76507800898,Héroumbili,Grenoble,Delhivery,Sea,834,52,Clear,Low,Delayed,59,1/22/2025
+561,d50941cd-8972-4e1c-8de9-5892638fd24d,Knyaginino,Sedan,DHL,Sea,2643,98,Clear,Low,Delayed,24,7/10/2024
+562,4c461e9e-b860-4a95-8e6b-12dd3e722943,Tartu,Tegaldowo,DHL,Sea,315,14,Storm,Medium,Exception,54,10/26/2024
+563,00f11066-0f7c-4e60-8e8c-db0d54d066cd,Sada,Ransang,UPS,Air,589,96,Storm,High,Exception,13,5/6/2025
+564,15fbe3ac-ab29-49fe-9937-432ecfe9ecd5,Agpangi,Sishiba,UPS,Road,1323,11,Fog,Low,Exception,11,9/26/2024
+565,5a2d6802-0884-49f9-8725-f29bce9deec7,Si Satchanalai,Paico,BlueDart,Air,2384,6,Fog,High,In Transit,58,7/20/2024
+566,febf29ca-6d72-49c5-bbf5-6113db38ee31,Manay,Hegarsari,UPS,Rail,1843,85,Clear,High,Exception,60,2/20/2024
+567,d673088d-34d4-4273-9701-d80e050b1eac,Sang-e Chārak,Maradi,FedEx,Road,1908,24,Rain,High,Delayed,3,7/14/2024
+568,322232b8-b941-45aa-8ffb-03a0f95138bd,Trindade,Ipoh,DHL,Rail,2233,95,Clear,Low,In Transit,13,12/6/2024
+569,45198f08-2a03-4e43-8656-0dfee53568e0,Sancha,Milton,Delhivery,Rail,2617,60,Clear,Medium,Exception,63,12/20/2025
+570,eeae6e14-0320-4a4b-a3e1-4a01ff06cd97,Sa'dah,Jaro,FedEx,Air,2958,50,Clear,Low,Delivered,29,3/11/2026
+571,e8aa6f24-1583-4062-bf36-4023742be8a3,Dabancheng,Erenhot,BlueDart,Road,653,10,Rain,High,Delivered,71,9/13/2024
+572,20b169e8-33df-438f-976c-43a9dee115b0,Vazhiny,Tầm Vu,DHL,Rail,1363,99,Fog,Low,Exception,68,3/15/2026
+573,6ee2d4a4-f76e-4cbe-b8af-48afb00e53a4,Sibanicú,Jielong,DHL,Air,2086,91,Heatwave,Low,Delivered,12,9/13/2025
+574,c06baf97-efc4-4620-ac9b-dfa44f3b1319,Viimsi,Banī Ḩassān,Delhivery,Road,1687,55,Heatwave,Medium,In Transit,43,10/11/2024
+575,1f22f167-aa43-45a7-8f10-aaa9b98d6b8f,Hradec nad Moravici,Mabayo,DHL,Road,2650,82,Storm,Low,Delivered,14,10/10/2025
+576,52ca2945-0b38-4edb-b60b-fcca38868254,Káto Nevrokópi,Abade de Vermoim,FedEx,Rail,1257,90,Fog,Medium,Delivered,59,3/22/2026
+577,74133339-c48c-4aa8-98fa-d329c0af1bc2,Miramichi,Vondrozo,Delhivery,Road,973,67,Heatwave,Medium,Delayed,3,2/15/2025
+578,761b2b36-4623-4705-b722-e054a0a04708,Shōbara,Paraíba do Sul,Delhivery,Road,2791,14,Clear,Low,Delivered,18,9/25/2024
+579,793bcac9-25e9-4533-9183-3f271ab116bd,Barrunchal,Robatal,UPS,Road,2315,92,Rain,Low,Exception,25,3/6/2024
+580,e823775f-3124-4adf-83e4-5d80266f94c0,Quinta do Sobrado,Yaguajay,UPS,Rail,422,65,Fog,High,In Transit,19,5/27/2024
+581,42bb5897-df3f-4530-ba1a-c70e0228e7d7,Zaliznychne,Weiqi,UPS,Sea,2297,38,Heatwave,Medium,Delayed,22,5/19/2024
+582,c3ddef72-4d59-4350-862c-4f72aac2d820,Mato Cheirinhos,Ondo,DHL,Road,2477,32,Heatwave,High,Delivered,66,4/1/2025
+583,7ea33a42-2862-4915-b595-f1a648eadd98,Biskamzha,Kitahama,FedEx,Road,878,42,Rain,Medium,In Transit,13,1/16/2025
+584,335f9cbc-65e3-4947-8227-545eb4b120a6,Fastovetskaya,Tha Ruea,FedEx,Rail,2886,35,Clear,High,Exception,25,4/23/2024
+585,68e278cd-6dc6-4fdd-9723-bac1dadcd875,Nogueira da Regedoura,Horní Suchá,BlueDart,Rail,1719,38,Clear,High,Delayed,0,6/17/2024
+586,d655d230-bcc0-444b-b685-03637182a5ab,Fengshan,Santo Niño,DHL,Rail,771,100,Clear,High,In Transit,23,6/10/2024
+587,aeee4332-14fb-4815-bf74-5db449e51a07,Linshanhe,Lakateng,BlueDart,Air,492,99,Rain,Medium,Delayed,49,6/20/2024
+588,b3041d46-e9b4-4904-bdf4-a5f0955fbe35,Supu,Sofrino,UPS,Air,1226,91,Rain,Medium,Delivered,29,6/23/2025
+589,14069359-114b-4628-8807-181f28e51b7d,Infanta,Langley,BlueDart,Air,213,22,Clear,Low,In Transit,40,10/4/2024
+590,7bb03dd2-68bb-4e9e-a07e-de23e1020ae3,Ḩabīl ar Raydah,Cijengkol,DHL,Air,494,42,Clear,Low,Delayed,25,1/24/2026
+591,bd03b9a8-93af-4228-a015-bf41fa44d2fb,Dushk,Wailebe,FedEx,Road,635,44,Fog,High,Exception,13,6/9/2024
+592,6f041f71-7e3c-4674-843a-8b904f6797fd,Dapaong,Batiano,BlueDart,Road,2199,41,Clear,High,In Transit,34,1/13/2026
+593,64609aa6-81c2-4503-bd05-82cc6860bfd0,Évry,Shuangchahe,DHL,Air,1204,68,Clear,High,Delayed,34,2/25/2025
+594,c5c0448c-d029-4d5b-b62f-f7520d96ec51,Phra Khanong,Mumias,FedEx,Rail,2091,1,Rain,Low,Delayed,71,11/30/2024
+595,3175a08a-dedb-4923-ae90-4599bfc22fa7,Mairinque,Solnechnyy,Delhivery,Sea,1473,86,Heatwave,Medium,In Transit,22,9/24/2024
+596,722955ad-f386-4df0-84a2-0513d99ab1e7,Vaiamonte,Malabag,FedEx,Road,1198,47,Storm,Low,In Transit,36,5/21/2025
+597,592f98fb-7b2a-4721-82e6-d93ee2c87c7d,Londiani,Otorohanga,Delhivery,Rail,1202,37,Storm,Medium,Exception,15,3/16/2026
+598,4f8ab25c-da36-4f00-a451-62ccbd254d63,Pomacocha,Demerval Lobão,BlueDart,Rail,761,88,Fog,Low,Delivered,4,9/14/2025
+599,cfaef8fd-9f4c-49aa-a4a2-6f2af3c4cfd0,Florencia,Saint-Étienne,DHL,Sea,1704,87,Clear,Medium,Exception,65,2/15/2025
+600,7a50e86e-2609-438b-970f-93f4be72949e,Las Palmas,Siaya,DHL,Rail,556,39,Fog,Low,In Transit,18,4/13/2025
+601,cc17732f-2957-45a6-9fb7-c91935ff2e23,Taouloukoult,Seixas,UPS,Road,343,87,Rain,Low,Delayed,1,11/15/2025
+602,18f4b8f4-6caa-4ebd-b38b-79a96d796ff5,Petrikov,Saint Helier,FedEx,Rail,577,7,Rain,High,Delivered,70,6/3/2025
+603,53c10873-8366-4e0c-80b9-472b0bcbe747,Zaporizhzhya,Aurora,UPS,Road,98,87,Fog,High,Delayed,59,3/24/2026
+604,d527732e-459d-4482-af9f-89c28aa9ce0c,Thouars,Karangasem,UPS,Rail,2613,98,Rain,High,Exception,17,4/23/2026
+605,b8162c1e-d162-4170-9521-6ebe33950621,Umm Şalāl ‘Alī,Lloydminster,FedEx,Road,1211,57,Rain,Medium,Delivered,42,3/11/2024
+606,f627a27d-c28d-4fed-924e-07e4751fa0e3,Jurh,Dajalorong,UPS,Sea,471,66,Clear,Low,Exception,40,6/19/2025
+607,8f047617-f09f-44b8-aba7-a0a47233c580,Aygavan,Meziměstí,UPS,Road,2864,32,Clear,High,Exception,19,3/16/2026
+608,9a1095e5-2cc0-4f8d-bb71-1454bf912d0d,Liulin,Gwaram,DHL,Sea,1397,87,Rain,Low,Exception,44,3/13/2026
+609,fa1cc4f0-1abd-4959-9798-4b1588afb48c,Lapinjärvi,Hagondange,UPS,Sea,1406,71,Rain,High,Delayed,1,9/15/2024
+610,fb28f86a-ca10-4886-85c5-32a4f11d14a2,Chengbei,Nangalimang,Delhivery,Road,2036,35,Rain,Low,Delivered,39,4/12/2025
+611,daa29c0c-13a4-45d9-83cd-29a26783f9d6,San Marcos de Colón,Qinshan,FedEx,Road,2633,35,Rain,High,Delivered,2,2/8/2026
+612,d8fc3beb-0f31-43e6-8687-c36e718179db,San Manuel Chaparrón,Nangong,DHL,Air,1886,60,Storm,Medium,Exception,15,6/8/2024
+613,7ce1a8d0-793d-4a4d-b84b-0656cf42539d,Caspisapa,Krajansumbermujur,UPS,Air,126,63,Fog,Low,Delivered,31,3/7/2026
+614,bc23f768-525c-423e-9bc1-8c61e4c2296f,Paarl,Chashnikovo,DHL,Road,2375,29,Fog,High,In Transit,60,2/20/2024
+615,0cc89c6f-265d-4111-a071-e5c0c75bc244,Za‘tarah,Kampong Cham,Delhivery,Air,82,41,Rain,High,Delayed,71,5/22/2025
+616,7bf630b5-bf6e-4d39-8642-2ec5b53085b8,Arboga,Passos,DHL,Air,2093,77,Rain,High,Delayed,13,10/15/2024
+617,dc9cdedf-4bdb-411d-a25c-f35a6887ac13,Chonchi,Gzy,UPS,Air,1762,41,Fog,Medium,Delivered,54,5/17/2024
+618,95f46805-bf3f-4e07-96c8-6bb743185add,Guazacapán,Sholokhove,DHL,Sea,1381,76,Storm,Medium,Exception,18,12/30/2025
+619,5220e2ad-7a2b-4bc2-aa10-b6675ab7663b,Cha-am,Quillota,FedEx,Sea,172,7,Storm,High,In Transit,25,12/9/2024
+620,d9fa85be-20dd-4cdd-b994-da8414a74d66,Krajan Karangsari,Magdaleno Aguilar,FedEx,Sea,1590,92,Clear,Medium,Exception,30,7/31/2024
+621,c490d844-a52f-4a4b-9ffb-72d785db17e9,Jimusa’er,Jemielno,FedEx,Air,1877,90,Fog,Low,Delayed,64,2/11/2026
+622,d9e44d81-f08d-4bd1-9138-5a5f0903733d,Milano,Paris La Défense,Delhivery,Road,526,41,Heatwave,High,Delayed,1,4/14/2026
+623,24c708b2-6245-4f3d-96b4-aad94c56dc15,Mentaraman Satu,Tuymazy,UPS,Sea,2456,47,Clear,Medium,In Transit,55,3/22/2024
+624,606f0e5d-4ceb-4e89-873e-9c1b29544d5e,Ballymahon,Borzęcin,BlueDart,Sea,400,81,Rain,High,Exception,17,1/14/2026
+625,1f8fd43a-d6f8-4826-81bb-bad0424a9e84,Tsotsin-Yurt,Klembivka,UPS,Air,468,21,Clear,High,Delayed,13,1/21/2025
+626,549a74a2-bd39-4475-b049-455e5227b576,Polos,Dianzi,DHL,Sea,60,92,Clear,Low,Exception,66,5/21/2026
+627,c77de8d4-29ea-4659-a8ac-e6defd719bee,Xiongjia,Khāsh,BlueDart,Sea,1119,58,Storm,Medium,Exception,47,2/28/2025
+628,91f5568a-c10e-40f3-b894-a840871c68ca,Kombapari,Ribeirão Preto,UPS,Rail,1568,33,Rain,High,In Transit,57,8/19/2025
+629,58dd7eec-4c5f-4085-9b0c-507bdf0e61e7,San Agustin,Vitez,FedEx,Rail,2776,18,Rain,High,Delayed,12,12/27/2025
+630,056ec09a-7916-4d9a-b4f2-09cbb0292e46,Emmen,Batan,Delhivery,Rail,2314,6,Storm,Medium,Exception,12,4/18/2026
+631,b72795d2-df07-4fa5-bd52-1e0f65c47032,Sablé-sur-Sarthe,Tamanan,FedEx,Air,1187,49,Rain,High,In Transit,32,2/28/2026
+632,4dd3b137-551d-4628-b7d9-6c0700351d9d,Murtajih,Cuntan,BlueDart,Sea,2370,61,Rain,Medium,In Transit,28,1/3/2025
+633,b1aa92a9-e769-4543-af23-06e73127b823,Niamey,Fiães,Delhivery,Road,734,19,Storm,Medium,Exception,37,1/28/2026
+634,8932e585-2ae1-41f3-bda2-c30146e4e30b,Luanshya,Golovinskiy,FedEx,Sea,584,63,Storm,High,Delivered,41,10/25/2024
+635,3b21f2e4-6abd-4368-be01-cfa319d5f670,Lāliān,Koatas Lao,FedEx,Road,1908,65,Heatwave,Low,In Transit,37,8/13/2024
+636,0b1a1f14-3c24-4048-a5ce-cb6d7008d755,Huaguoshan,Lillehammer,Delhivery,Road,1668,22,Heatwave,Medium,Delivered,13,9/3/2024
+637,df2f1a38-0622-446a-b7f6-78531301cd75,Katovice,Sindangjati,UPS,Sea,2030,49,Clear,Low,Delayed,59,7/29/2025
+638,aa9fc9f4-5849-4fa1-9685-9a33548ed66e,Abū Zabad,Xinsheng,UPS,Air,2850,86,Storm,Medium,In Transit,15,12/15/2024
+639,2c7bac44-ed4f-4b29-94f9-27cef83adc00,Banatska Topola,Leskovac,BlueDart,Road,516,9,Fog,High,Delayed,54,6/7/2025
+640,c3643aab-985d-439e-9e5d-301470d45773,Koten,Luchegorsk,UPS,Rail,1751,16,Clear,High,Delayed,41,3/6/2024
+641,c30c7e24-139e-4a72-9c80-6a5c0826f4cd,Villeneuve-la-Garenne,Lengkongbarang,FedEx,Rail,2063,17,Heatwave,High,Delivered,54,5/2/2026
+642,e128331c-35a6-4156-8c2f-bc23e15639ab,Montasik,Solna,UPS,Air,2213,19,Clear,High,Delayed,34,9/19/2025
+643,979cf019-50b1-40b1-9060-f8c8b5010d24,Esuk Oron,La Carlota,UPS,Sea,75,49,Heatwave,Medium,Exception,16,4/14/2025
+644,204e2952-452f-45d1-8a4d-8c29fa7d7c4b,La Virginia,Gongfang,Delhivery,Road,1812,97,Storm,High,In Transit,63,9/15/2025
+645,95bb1a29-3dac-4419-90dc-af9b6a34785a,Providencia,Jianli,DHL,Sea,234,95,Rain,High,Delivered,15,11/25/2025
+646,f6ff8570-9008-4fbc-9ef3-d55b2f18277e,Uzunovo,Shashemenē,FedEx,Sea,2600,94,Rain,High,Exception,56,2/12/2025
+647,7273156b-f774-40ed-86ce-8c6a897b656b,Jiangpu,Hrotovice,BlueDart,Rail,586,57,Fog,Low,In Transit,34,5/7/2024
+648,96d2fa6b-b154-4e65-a0ec-7b061714e78e,Haebaru,Šluknov,UPS,Road,1715,64,Fog,Low,Delayed,71,4/13/2026
+649,54743a90-c7af-4b44-99b6-3cab6319b235,Göteborg,Semarang,UPS,Sea,167,50,Fog,Low,Delivered,28,11/10/2024
+650,1c81d6ce-0aa2-421f-b37a-ec479901e11e,Fengyuan,Taznakht,Delhivery,Rail,896,22,Heatwave,Low,Delivered,13,2/24/2026
+651,114ae320-7c67-488d-bbf5-e90be7aefbd7,Ciénaga,Tasikmalaya,DHL,Sea,1242,77,Rain,Medium,Delivered,56,5/12/2026
+652,e62efb2f-b181-4358-b7a2-86b77d91282a,Belozërsk,Tepusteca,UPS,Road,607,47,Clear,Medium,In Transit,12,12/2/2024
+653,8b8a9660-01e3-44ef-8ece-f017ac2079d8,Unaizah,Huxu,DHL,Rail,815,59,Heatwave,Low,Exception,33,5/2/2025
+654,8ea0bd75-9e9a-4229-b3fe-594bb5379e99,Guozhuang,Nova Venécia,FedEx,Rail,1886,25,Storm,Medium,In Transit,16,8/7/2024
+655,c068bf48-5e66-4c8d-88b8-51ddc68e5084,Néos Skopós,Ergates,BlueDart,Sea,2595,98,Clear,Medium,In Transit,15,5/21/2024
+656,fc25e119-952b-4501-9bfa-4368c8fe554c,Panaytayon,Tuusniemi,FedEx,Sea,1178,66,Rain,Medium,Delivered,19,8/18/2024
+657,4e11988d-31e8-49b9-8573-9539379e5e99,Paris 04,Mankono,UPS,Sea,491,63,Storm,High,Delayed,25,12/6/2024
+658,23b45526-713c-4386-861c-62418eeadf53,Qiaozhen,Cikaung,UPS,Road,346,38,Storm,Low,In Transit,63,8/28/2025
+659,2f221b5b-bdf8-4c60-bbdf-312a51e2b791,Potongan,Bailianhe,Delhivery,Sea,2874,20,Storm,Low,Delayed,64,10/20/2024
+660,67ade0c6-66b6-4bef-b267-922640b07e4c,Targowisko,San Francisco,DHL,Rail,1000,68,Rain,High,Delivered,25,9/10/2025
+661,22ee737d-9038-46ce-ac84-36de5b9c1330,Shevchenkove,Luz de Tavira,DHL,Rail,1612,40,Fog,High,Exception,35,2/23/2024
+662,7576257c-e13b-47c2-8028-e71d5db4a840,Pindaré Mirim,Wenceslau Braz,Delhivery,Sea,338,55,Storm,Low,Delayed,19,12/23/2024
+663,3676c576-fc73-4b41-9fdd-c908709adba7,Cortes,Adamstown,FedEx,Road,201,69,Clear,High,Exception,72,8/5/2025
+664,9269f29b-06f9-4a35-a06c-6a2ca340d44f,Banyuurip,Wangping,Delhivery,Sea,1377,73,Rain,Low,Delivered,44,5/4/2024
+665,e80322f4-79dd-4d6f-be0f-a189a8e5279d,Xilong,Rybno,FedEx,Road,1101,4,Heatwave,Medium,Delayed,22,10/24/2024
+666,8ccb96ae-0042-4049-92cb-66c44593a849,Sasnovy Bor,Momanalu,Delhivery,Rail,651,37,Storm,High,Delivered,70,10/21/2025
+667,cb7f5c57-c245-4ab8-a8e3-c6ae1a191df7,Minuwangoda,Gobernador Ingeniero Valentín Virasoro,BlueDart,Road,1070,96,Rain,High,Exception,2,9/9/2025
+668,9f797508-82d8-42d2-87f2-ae40900abb56,Na Di,Bartošovice,UPS,Sea,2531,4,Rain,High,Exception,66,6/30/2024
+669,65237944-16ff-4f8a-896a-ddde1afca0e1,Ugra,Klapagada,DHL,Road,2293,98,Heatwave,Medium,In Transit,61,7/31/2025
+670,39783392-5a3a-4061-9b9a-f7c95b02db13,Cikabuyutan Barat,Sunne,FedEx,Rail,254,64,Storm,High,Delayed,69,12/19/2024
+671,addd72ca-f5f9-42eb-b0bf-ac9992150d57,Nueva Fuerza,Claresholm,Delhivery,Road,1263,48,Storm,Medium,Exception,58,5/12/2024
+672,9c684e47-d4c5-4551-a833-cbdfae7f9735,Bergen,Santo Tomas,FedEx,Rail,472,1,Fog,Medium,Exception,72,5/15/2026
+673,f1c8f399-4451-44c9-be98-09bf70a94ec1,Tongzi,Sharan,Delhivery,Road,2885,36,Fog,High,Delayed,70,8/12/2024
+674,a959c311-145c-4d5f-9002-1592916744bd,Azueira,Pilar,BlueDart,Rail,2419,26,Clear,Medium,Delivered,33,7/30/2025
+675,740bafd8-1243-4edb-925b-44b63e9d0f80,Hasuda,Kuningan,BlueDart,Sea,2460,93,Rain,High,In Transit,72,7/21/2024
+676,f347a70c-5c9a-4590-9562-7577b40f333b,Korydallós,Sagopshi,BlueDart,Air,2460,62,Rain,Medium,Delayed,8,5/3/2026
+677,aefb98df-5fba-47b2-ba9c-c3dce715c7f3,Strasbourg,Quế Sơn,BlueDart,Sea,1065,22,Rain,High,Exception,15,6/13/2025
+678,8f705eff-dabe-431e-9ce7-887e5b30d302,Siedlce,Lahishyn,FedEx,Rail,196,65,Rain,Low,In Transit,21,12/17/2025
+679,0f2cb3ff-b70f-4c0b-9e12-870ed2f37bda,Zhujiang,Oslo,BlueDart,Rail,167,23,Clear,Low,Exception,43,9/24/2025
+680,8aa7c10e-f597-40d4-8dc6-578c099b35fb,Ohafia-Ifigh,Zelenogorsk,FedEx,Road,2932,50,Heatwave,Low,Delivered,27,12/8/2024
+681,1ffb0bcd-d08d-41b3-b4f6-a88da9c2c31f,Cocieri,Lebak,FedEx,Road,1254,77,Heatwave,Medium,Delayed,62,5/3/2026
+682,bad40726-7705-4481-b817-0997498ea054,Duayaw Nkwanta,Bayt ‘Awwā,UPS,Rail,2625,20,Rain,Low,Delivered,67,12/15/2024
+683,8878a035-ce47-4b8a-9fbb-2ee0c9409342,Tulaghi,Air Bangis,BlueDart,Air,994,78,Clear,Medium,Delivered,49,3/19/2026
+684,c649b500-62bc-4485-b419-f82215d764af,Zhanlong,Nandasmo,Delhivery,Road,1783,10,Clear,Medium,Delivered,45,12/24/2024
+685,87be5381-24d5-4b1a-b633-3f0a48ef9789,Pakel,Mazańcowice,BlueDart,Road,1429,85,Heatwave,Medium,Exception,66,4/28/2024
+686,3385f6b7-b303-4db0-bb05-0dffbf14b9ea,Buawan,Zengjia,Delhivery,Air,2140,54,Clear,Medium,Delayed,31,11/9/2025
+687,5d5b549f-be54-4bae-befc-1aad180b8cde,San Diego,Anda,FedEx,Air,1331,59,Clear,High,Delayed,54,6/4/2024
+688,19dd6eab-a7aa-4cbd-82f6-8c054695f824,Tajrīsh,Boa Viagem,Delhivery,Air,1413,28,Clear,Medium,In Transit,14,6/28/2024
+689,9a43b98b-cba9-44ce-8618-d0747fc56455,Trinity,Le Mans,FedEx,Air,2918,40,Rain,Low,Delayed,68,5/8/2024
+690,55236fcd-4bc2-4016-8e59-271d5c554feb,Yimnón,Samothráki,DHL,Air,1916,45,Fog,High,Delivered,53,12/22/2024
+691,bd739973-9be5-448f-ae4c-0eebf1f71b57,Vila Chã,Presidente Epitácio,FedEx,Rail,896,99,Heatwave,High,Delivered,65,9/24/2025
+692,f14a8711-2e7f-4ddb-be5e-86e3ba14e834,Prado,Eiriz,Delhivery,Rail,2918,19,Storm,High,Delayed,12,8/30/2024
+693,e1388cc3-822c-4604-84ef-03980697616e,Huancheng,Dong’an,Delhivery,Road,2128,41,Clear,Low,In Transit,9,4/23/2025
+694,c791ddb6-9e43-46d7-b311-ba792626d585,Kranjska Gora,Holýšov,DHL,Sea,1820,37,Clear,Low,Exception,13,8/7/2024
+695,c146cdb0-a33e-4048-acc0-ba9329d5b8a4,Aristóbulo del Valle,Líbano,DHL,Air,732,13,Storm,Medium,Delayed,27,3/5/2026
+696,7ddb3b29-d8eb-49b7-83ad-6b9a49894d5d,Oslo,Shazi,DHL,Sea,2538,77,Rain,Medium,Exception,4,9/26/2024
+697,09e69854-985f-4c51-ac59-b2db5a96d19b,Menara,Roanoke,FedEx,Road,2386,48,Fog,Medium,Exception,26,3/28/2024
+698,cbd90b2e-a0fe-4579-8332-7791af56cfe8,Znomenka,Mthatha,DHL,Air,2792,74,Clear,Medium,Delayed,51,1/11/2026
+699,be46f70d-3846-4eaa-a63d-ab5eb15c34d4,Uyugan,Nanterre,BlueDart,Rail,1169,15,Rain,Low,Exception,27,11/24/2024
+700,71a34ac7-3bd6-43b4-9ca0-d070d771b22d,Morazán,Babatngon,DHL,Air,2223,67,Fog,Low,Delayed,59,12/5/2024
+701,e31d412f-800b-420f-9e5d-eaf4ac1ffa95,Kabo,Kibiya,FedEx,Rail,2404,91,Storm,Low,Delivered,46,6/18/2024
+702,1c00a4d4-7daf-45c1-ac1c-ca21a4b984f3,Xiaoguan,Plaza de Caisán,DHL,Sea,1138,65,Clear,Medium,In Transit,30,11/7/2024
+703,1a73489c-00c3-4a25-afb3-576edc3bbabb,Panjakent,Fraga,UPS,Air,2162,93,Clear,Low,Exception,49,4/23/2025
+704,00d35877-5059-4169-8385-c5ba36caa7b8,la Massana,Yermolayevo,BlueDart,Rail,1378,75,Fog,High,Exception,60,4/10/2024
+705,ca173821-b759-431b-b4bc-0f3b65897fb3,Coroico,Köping,DHL,Air,2628,81,Fog,Low,Exception,51,9/19/2024
+706,30447964-49a7-45ad-b126-e41c4cc7b22a,Pangalangan,Badian,FedEx,Sea,1886,23,Storm,Medium,Delayed,44,2/3/2026
+707,074bb095-1cb1-4663-8f9d-68d421604205,Belford Roxo,Řečany nad Labem,Delhivery,Sea,2120,43,Heatwave,Medium,Exception,66,11/4/2024
+708,a0b6089f-c3ef-40c7-aa5e-de84f3ed2235,Andramasina,Jūybār,Delhivery,Road,2949,54,Storm,High,In Transit,34,5/29/2025
+709,e930caa2-ba9c-4208-844d-e93c762bb328,Akouda,Bayasgalant,DHL,Rail,1662,47,Heatwave,Medium,Delivered,1,8/29/2024
+710,1d378e2b-3189-422e-ade3-daded9b1da82,Los Santos,Viitasaari,FedEx,Sea,839,69,Storm,Medium,In Transit,48,6/13/2024
+711,fa2522c5-1053-4e02-b104-451d22c80b3b,Wates,Frashër,DHL,Rail,338,77,Heatwave,Low,In Transit,46,4/18/2025
+712,fc290978-5871-449c-a8d2-df7d97a394f5,Shunling,Nglengkir,FedEx,Rail,2826,89,Storm,Medium,Delayed,24,10/9/2024
+713,d5852b16-acf0-44c9-9ad9-591e97b3b727,Tocoa,Čajetina,UPS,Sea,2705,96,Rain,High,Exception,33,2/17/2025
+714,78d137c1-70e2-43bd-b58c-f4da53719a42,Al Marj,Yŏnggwang-ŭp,UPS,Rail,1248,76,Rain,Low,Delayed,40,2/27/2025
+715,7b3d886d-cc0f-4b72-8c69-0a69a70e234f,Oslo,Sebu,UPS,Rail,1348,3,Heatwave,High,Delayed,37,2/4/2025
+716,a29fe3ba-2f69-4895-8758-0b17fde27306,Henglishan,Borkowice,UPS,Rail,790,56,Heatwave,Low,Exception,12,5/30/2024
+717,fd0ac3a9-cbac-4a03-850d-6d01b05817ab,Espanola,Ust-Kamenogorsk,FedEx,Sea,917,95,Fog,Medium,Delivered,67,11/5/2025
+718,d372cf8d-c909-4227-80cf-b60ac707f054,Västerås,Capulaan,Delhivery,Air,1057,36,Heatwave,Low,Delivered,48,4/6/2025
+719,38d1f269-bbe0-40e6-974d-8f413c0b1bbd,Ciudad Nueva,Milanówek,FedEx,Rail,571,52,Clear,High,In Transit,45,9/7/2024
+720,3f4216e7-1c7f-40f6-b38d-2a5aadb7dc33,Wanrongjiang,Obiliq,DHL,Air,1649,95,Rain,Low,Delivered,15,2/23/2026
+721,a020746e-bc34-4c0d-88b8-693f278e2acd,Lama,Baños,BlueDart,Road,2960,82,Heatwave,Low,Delayed,10,1/4/2025
+722,56b44445-149d-4bb4-90e6-660777044b9f,Ozimek,Fushan,FedEx,Road,1767,63,Heatwave,Low,In Transit,37,6/20/2025
+723,1300bffe-518d-4bae-872a-d6ab85411eea,Niquelândia,Kuwumkumambal,UPS,Air,2706,34,Heatwave,Low,Delivered,52,9/18/2025
+724,799c0b5d-a28c-4d6f-8c92-e151a531db00,Zakamensk,Wangjing,DHL,Rail,2003,83,Heatwave,High,In Transit,72,8/21/2025
+725,b4cdf18e-eb99-45f9-89a0-9b00852e8fba,Qiancheng,Hangou,FedEx,Road,2826,77,Fog,Low,Exception,62,5/6/2026
+726,7022d59c-f8b5-4ca1-a83a-e6159bb6f370,Krajan,João Pinheiro,DHL,Air,648,53,Rain,Medium,Delivered,49,1/6/2025
+727,ab8d405b-cef4-437c-aa6a-ef9f0db5a826,Kislovodsk,Suren,BlueDart,Road,1712,50,Heatwave,High,In Transit,63,5/8/2026
+728,13b6ebd8-c6c2-4096-8faa-f3aed795464d,Hanjiashu,Arras,DHL,Sea,1335,11,Fog,Medium,Delivered,18,1/23/2026
+729,d75481b5-1180-4b1a-b8a8-5b3533ad3978,Āshkhāneh,Nizhniy Lomov,Delhivery,Air,2603,72,Heatwave,Low,In Transit,48,5/2/2025
+730,4b1eb43b-1082-48e4-b5c8-0a3ecce7d56d,Xinglong,Novaya Tavolzhanka,UPS,Sea,2026,73,Storm,High,Delayed,15,3/27/2024
+731,c2a74583-e6b7-4fa9-b842-1ce0246a87b2,Ágios Stéfanos,Huacheng,DHL,Air,1695,44,Storm,Medium,Delayed,55,2/29/2024
+732,bb432f6e-b094-49a1-affa-b8049c5f5fa4,Logung,Byahoml’,BlueDart,Air,582,6,Fog,Low,Delivered,4,6/22/2025
+733,dd59ce9a-2df6-434f-8fd5-75a34e4d9164,Bandundu,Pilcomay,BlueDart,Road,511,39,Storm,Medium,Delayed,16,8/7/2025
+734,7fb76122-5873-46cf-ad45-10d6c966c912,Lexington,eSikhawini,BlueDart,Road,2092,13,Rain,High,Delayed,67,1/15/2025
+735,ead32b87-2d1b-4d8c-a14e-b163dcbb223e,Asmara,Arcoverde,BlueDart,Air,2867,41,Rain,High,Delivered,44,10/20/2024
+736,37563d68-66e3-4742-bae6-e9775ea5e069,Qal‘eh-ye Khvājeh,Zaranj,BlueDart,Road,166,35,Storm,High,In Transit,68,5/19/2024
+737,df93f0f3-db42-4f38-8e84-13b8d8c4d19b,Junaynat Raslān,Rāvar,UPS,Rail,1863,30,Rain,High,In Transit,28,7/5/2025
+738,3f0db8b2-99aa-4774-8857-1a652e0a713e,Santo Anastácio,Alor Setar,BlueDart,Road,1162,69,Clear,High,Exception,44,2/26/2024
+739,69c4cfcf-2bbf-4011-aa0f-641fba622452,Barrie,Ágios Athanásios,UPS,Rail,2680,45,Heatwave,High,In Transit,72,8/3/2025
+740,0c4c1e3c-613a-43d5-b436-924fb0a76c21,Wutun,Nanbao,DHL,Rail,1536,80,Storm,Medium,In Transit,60,2/15/2024
+741,e205397e-70d9-45a1-9e26-0727da394f45,Narva-Jõesuu,Lyon,UPS,Rail,396,97,Fog,Low,In Transit,5,1/28/2026
+742,849b4459-a068-4617-9444-c3b1dc2cb56e,Kansas City,Liyang,DHL,Air,1100,67,Rain,Medium,In Transit,34,4/29/2025
+743,ba5e3f77-0cc1-4628-89ef-17ade20f9bee,Balaogan,Lanchyn,UPS,Sea,1245,80,Heatwave,Medium,Delivered,2,8/14/2024
+744,e684e452-044f-4ebd-b729-2655d0bfe161,Concepción Tutuapa,Sendai-shi,BlueDart,Air,1885,88,Fog,Low,Delivered,19,3/27/2024
+745,7132eee1-f13a-4dc3-bf83-73dd7e337583,Gornyy,Heishui,DHL,Air,1136,54,Rain,Low,Delayed,44,12/2/2025
+746,14a56288-d452-43c0-ab2e-27b2c196765a,Wichit,Xiuying,Delhivery,Rail,2423,56,Heatwave,High,Delivered,53,4/24/2024
+747,a7bd18be-09cd-4ab0-b44e-557f803fd022,Tanggung,Liquica,DHL,Sea,1416,2,Heatwave,Medium,Delayed,61,7/3/2024
+748,1fe6cfdb-76f1-441e-b107-a49f3af79815,Orvault,Sundsvall,BlueDart,Sea,1581,17,Heatwave,Medium,In Transit,52,6/9/2025
+749,d00d7a0e-5b3d-4886-a7d8-964866d6393b,Karangtalun,Mataya,DHL,Sea,322,6,Clear,High,In Transit,52,3/26/2025
+750,4044d546-3007-44fd-a1a4-b972e5f78dc8,Hurghada,Naguilian,Delhivery,Sea,1239,22,Heatwave,Medium,Delayed,19,3/2/2026
+751,0147fe56-8bcd-4340-99a8-67bae4e9a4a2,Hövsan,Tulle,Delhivery,Road,1668,75,Storm,High,Delivered,67,3/24/2026
+752,ce6a42fb-fae6-4b9f-84a3-7b35a1aa38a2,Timiryazevo,Thị Trấn Ngọc Lặc,BlueDart,Road,845,6,Heatwave,High,In Transit,70,8/1/2025
+753,acd39b92-0d43-4fdf-81f2-5a54c76503dc,Kostyantynivka,Diancun,FedEx,Sea,1258,89,Fog,High,Exception,34,2/14/2026
+754,d8adc2e5-f649-4f07-87b8-f4d523e13ced,Huanghe,Palocabildo,UPS,Road,1486,52,Fog,Medium,Exception,58,6/12/2024
+755,610841ee-1200-4ece-ba9f-dc6683d41bfc,Comitancillo,Leopoldina,DHL,Sea,579,25,Storm,Low,In Transit,62,10/29/2025
+756,598346dd-6256-4654-b209-8a6508ac8f40,Jablah,Orlando,Delhivery,Road,2420,6,Storm,Medium,Delivered,3,4/3/2026
+757,28bda00a-bb3f-4ec0-8df9-d4002acb64b4,Kamárai,Vila Nova de Santo André,DHL,Rail,2057,11,Heatwave,Low,Exception,52,10/9/2025
+758,21e036aa-27aa-4042-ab37-f2820992fc98,Marco de Canaveses,Katsuyama,FedEx,Sea,347,27,Fog,Medium,Delayed,58,12/18/2025
+759,76526f9e-d396-4e77-9237-1b2335ca6162,Al Aḩmadī,Hiratsuka,UPS,Rail,1757,69,Fog,Low,Delayed,5,7/11/2025
+760,f616cd2d-3339-463d-969b-5b37b8df94ee,Cikawunggading,Kayes,Delhivery,Rail,2485,66,Clear,Medium,Delayed,18,2/5/2026
+761,57dfd92d-35f7-48c9-810b-6037e8c6b2de,Dong Liang’erzhuang,Novotitarovskaya,DHL,Road,1160,95,Rain,High,Delayed,0,6/29/2025
+762,5248fd80-3303-4dd1-82f0-38c2771070a5,Waterloo,Donja Brela,Delhivery,Air,2216,57,Clear,High,In Transit,55,8/12/2025
+763,d6d543ec-3372-44ae-b677-554d6a42a32c,Clermont-Ferrand,Caramuca,Delhivery,Rail,1720,4,Storm,High,In Transit,19,12/6/2025
+764,c1bf0598-bfac-4946-85c5-c0701f9f9f5e,Dunleer,Jinji,FedEx,Rail,2071,65,Clear,High,Delivered,2,12/9/2025
+765,46760145-f2e3-4f38-8d59-32e28243d88c,Annan,Panggungsari,UPS,Rail,81,71,Rain,High,Exception,29,8/24/2024
+766,93054cc6-f838-446d-b65c-a0c6b517d35d,Uppsala,Paty do Alferes,Delhivery,Sea,1559,28,Rain,Low,Delayed,2,2/23/2024
+767,d53930cc-8d08-40bb-98d4-49bbe1ce5809,Baoshan,Yūki,BlueDart,Rail,1093,26,Heatwave,Medium,Delayed,0,8/20/2025
+768,673af4f6-c529-45a3-858d-a13f65d10526,Liuyuan,Ciparay,FedEx,Rail,1130,78,Heatwave,Medium,Exception,48,1/10/2025
+769,c5ae9d4b-614b-4903-9fc5-37c23c0119d4,Xiexiong,Huayucachi,DHL,Rail,1225,12,Heatwave,High,Delayed,68,1/25/2025
+770,0cb15e2d-b7ff-44ae-ae6d-8a8a85803f17,Chanthaburi,Doña Remedios Trinidad,FedEx,Air,487,67,Clear,Medium,In Transit,12,12/3/2025
+771,1093b835-c426-4980-be8f-c69375330fb6,Saint-Jouan-des-Guérets,Quilmaná,BlueDart,Rail,2059,89,Storm,Low,Delivered,26,1/23/2026
+772,c101b916-b47d-4845-9935-497528ed0e86,Portelinha,Kożuchów,DHL,Rail,495,32,Storm,High,Delivered,18,11/16/2024
+773,4552dae6-0dbb-45e6-9f0c-9f5ba7ca42a1,Constance,Kuala Lumpur,DHL,Sea,2800,65,Rain,Medium,Exception,29,10/12/2025
+774,b3188712-63a5-4a30-a3ec-fb1af944e3ec,San Jose,Ylämaa,DHL,Sea,2958,93,Clear,High,In Transit,18,10/16/2024
+775,cd9d106b-59cd-4fb1-8b78-37410049cd9c,Auas,San Miguel,FedEx,Air,760,19,Rain,Medium,In Transit,24,3/30/2025
+776,f4aec01a-21f3-4537-9402-bc9a9ababf95,Bistrica pri Tržiču,Zijin,FedEx,Air,483,47,Heatwave,High,Delayed,31,3/13/2026
+777,b146be86-c9f1-4eca-8aab-4bfe69a20691,Järfälla,Tokār,DHL,Road,690,19,Clear,High,Delivered,59,9/15/2025
+778,546d19d9-e99c-4475-9572-56b58705cc1e,Kotablolong,Rahayu,FedEx,Air,201,50,Heatwave,High,In Transit,30,12/6/2024
+779,d441c2ac-678c-4f16-adc8-ff910471c759,Porto Feliz,Nai Harn,DHL,Air,2221,86,Clear,Medium,Delayed,45,2/19/2025
+780,970cd3ee-e740-41c7-997c-efdd0bbd8073,Qom,Chalcos,Delhivery,Road,878,59,Heatwave,High,Delayed,25,2/13/2026
+781,759debeb-e71d-4e8d-99b1-d2ce7bf1b745,Marbel,Belén de Umbría,UPS,Rail,2942,65,Storm,High,Delayed,72,3/29/2026
+782,cf76e5d9-94ea-4d6f-b4a6-273496635b72,Jarocin,Ōiso,FedEx,Rail,2315,94,Heatwave,Low,Exception,27,3/5/2026
+783,b541e5a1-ae22-41ca-bb28-d434616540b8,Berģi,Penza,UPS,Sea,1270,20,Storm,Medium,In Transit,44,8/4/2024
+784,a4c241ab-479c-4d1e-a70f-8104f4ecad43,Cikaduen,Verkhnya Rozhanka,FedEx,Rail,2160,97,Rain,Low,Delivered,30,7/26/2024
+785,089bec64-6b7f-45d5-adb2-3e0b9f0ad505,Wuqishan,Solnechnyy,BlueDart,Rail,1727,95,Storm,Low,Delayed,67,6/12/2025
+786,45692896-093f-4dcb-a0bf-f362b31bcc6e,Khawr Maksar,Nanniu,UPS,Road,728,27,Rain,Low,Exception,33,2/28/2026
+787,2714b16f-941f-4216-8775-ddcf717f671b,Protección,Xinqiao,FedEx,Road,793,45,Fog,High,Exception,29,3/17/2024
+788,754dd597-48d6-4d40-8600-007811d8141a,Želetava,Zhentou,UPS,Rail,452,33,Storm,Low,Delivered,59,2/22/2026
+789,6f3fc2dd-19b8-4a7a-ac4d-14a0f2ea2b47,Mattaldi,Ban Huai Thalaeng,BlueDart,Road,597,97,Storm,High,In Transit,3,5/27/2024
+790,d8817eca-56a1-4bcb-9483-3d66cd748315,Meizhuang,Verkhozim,Delhivery,Road,1348,34,Fog,Low,Exception,54,2/16/2024
+791,4b7e7579-5e58-48dd-95b7-c71bae4d5a53,Purwosari,Kuching,DHL,Air,2913,31,Rain,High,In Transit,60,8/7/2024
+792,85e7b78f-8cff-429b-abae-416cfd5dcfad,Sartrouville,Makoua,UPS,Road,1990,78,Clear,High,In Transit,60,6/9/2024
+793,7e022e22-aa31-41da-8a8f-ec88d40db018,Liuhe,Połomia,UPS,Sea,1440,48,Heatwave,Low,In Transit,25,10/21/2025
+794,a64690bb-6374-4f78-9161-a336f8fc1ef0,Shanxiahu,Richmond,Delhivery,Air,2795,96,Fog,Low,Delayed,57,2/16/2024
+795,cca0db46-342b-49e7-9dac-3fe660a80ae3,Seynod,Jingdu,DHL,Road,2035,7,Heatwave,High,Exception,48,8/4/2025
+796,83b89a01-f0f2-4c6f-86fc-3c020514025c,Nynäshamn,Āstārā,FedEx,Sea,2473,45,Fog,Low,Delivered,21,7/19/2024
+797,d24aeee7-9006-4646-b9a4-caa65867c487,Kadupinang,Rengasdengklok,Delhivery,Road,2359,80,Rain,High,Exception,59,1/27/2026
+798,6f3823b9-8daf-465c-b173-4def061bb310,San Francisco,Tejar,DHL,Air,2297,76,Fog,High,In Transit,62,12/20/2024
+799,90a14e45-b344-4649-b4c0-bebaba245239,Sūrāb,Verkhnya Syrovatka,Delhivery,Rail,834,3,Rain,High,Delayed,32,9/13/2024
+800,9b11b261-edf6-49d7-9009-7680ea47e1a1,Pinglumiao,Chignayhua,UPS,Sea,732,9,Heatwave,Low,Delivered,23,6/7/2025
+801,c4d1f960-6927-408f-8589-08b787770ea2,Nagasaki-shi,Pilchowice,Delhivery,Air,1551,62,Rain,Low,Delayed,2,12/7/2024
+802,d6d53cc2-dae8-4af4-bbdf-4146b1d6f13b,Huacrachuco,Baishuiyang,DHL,Sea,2168,15,Rain,Low,Delayed,72,4/15/2026
+803,d80f648d-3c2c-47b7-a4c7-f286d2049626,Vingåker,Kuantan,Delhivery,Air,852,97,Storm,High,Delivered,72,4/10/2024
+804,f859b160-3f9d-4348-ab4b-bbd55b398dd3,Bulakbanjar,Mattaldi,Delhivery,Road,2505,35,Heatwave,High,In Transit,53,7/13/2025
+805,92cadf4a-2bc9-45d3-aa1e-8f8f52cb6612,Mporokoso,Jūybār,Delhivery,Air,445,87,Clear,High,Delivered,28,5/2/2025
+806,2d31c13d-7e42-40e5-94b4-90d8251dcc05,Riosucio,Dulyapino,FedEx,Rail,1143,28,Storm,Medium,In Transit,3,7/9/2025
+807,608d9b2d-e99a-4609-bf34-0832c8875ad0,Lloque,Santa Cruz del Sur,BlueDart,Air,251,68,Clear,Low,Delayed,23,12/20/2024
+808,1d65fbee-fd0c-4c4b-aebb-4197920ca896,Sadek,Dongen,DHL,Road,2426,96,Rain,Low,Delayed,55,12/29/2024
+809,22c4701f-5e60-4e38-9805-8532472f8fdd,Denver,Romans-sur-Isère,DHL,Sea,2436,15,Heatwave,High,Delayed,37,4/6/2026
+810,c2686283-a342-4381-870a-4e0c448bfee3,Siheyuan,Padre Burgos,BlueDart,Air,1355,72,Heatwave,Medium,Exception,40,3/13/2026
+811,84b887c9-4de0-48bc-945f-2379613900fc,Guanqian,Mysiadło,FedEx,Road,455,54,Heatwave,High,Delayed,52,2/4/2026
+812,57dc45ba-6c03-405d-9ac5-1b7ed4dfc18c,San Ignacio de Velasco,Hewan,Delhivery,Road,2572,77,Rain,Medium,Delivered,59,3/17/2026
+813,02b14a7d-5f3e-41a4-84fe-a39f51dc7eee,Glagahan,Rehoboth,Delhivery,Air,1224,71,Rain,High,Delayed,71,1/15/2026
+814,db459820-4050-42ce-b9e6-028da7902d30,Yanggu,Naikoten Dua,UPS,Sea,1074,44,Clear,Low,Exception,10,5/18/2026
+815,aca26aa6-6980-4967-a3cf-d7945eeb5d43,Mashi,Ladoang,BlueDart,Sea,535,100,Storm,Medium,In Transit,48,2/10/2026
+816,50f05539-200a-4db3-af21-4ab7b7af08d7,Křižanov,Lampihung,UPS,Road,1045,100,Rain,High,Exception,26,5/6/2024
+817,9d3a7de3-80a4-4906-a7fc-61c656a0f99a,Campinas,Senj,Delhivery,Rail,228,67,Fog,Medium,Delivered,47,5/15/2026
+818,cbf9ae57-b8dd-4944-9f65-255031e4395e,Seixezelo,Golden,Delhivery,Road,1497,62,Storm,High,Exception,2,3/5/2025
+819,c59e7228-acc8-4f4f-8e59-04b1da4da068,Aranas Sur,Creil,Delhivery,Sea,990,55,Rain,Low,In Transit,4,5/11/2026
+820,75c8fe00-f868-4ab9-bf79-36080eee6944,Kunyang,Todorovo,UPS,Rail,487,30,Rain,Medium,Exception,19,10/28/2024
+821,d4adfbac-a066-47f0-9141-713d48f1e878,Bondoufle,Joinville,UPS,Road,235,83,Rain,High,In Transit,9,7/23/2025
+822,d4685563-9403-40fb-97f9-ec5f1e0c3ed4,Ustrzyki Dolne,Poříčí nad Sázavou,UPS,Rail,999,88,Fog,High,In Transit,4,1/29/2025
+823,2e34dc7d-97be-43a8-ab3a-ad2db0ce4614,Alexandria,Seleuš,UPS,Road,1367,64,Fog,High,Delivered,17,3/3/2025
+824,d002527e-f4a1-46c7-8727-feced23edca9,Calibutbut,Lagny-sur-Marne,FedEx,Road,2966,98,Rain,High,Exception,7,5/9/2024
+825,8a788876-f10a-4f1b-9802-89ae465446bb,Lühua,Khadan Khāk,FedEx,Air,1657,5,Rain,High,Delivered,1,4/1/2024
+826,cf721c29-d415-4556-81f6-8a5a74be1657,Fuji,Tāngāil,BlueDart,Rail,1832,51,Heatwave,Medium,Delayed,47,3/11/2026
+827,f8f3045b-09a3-4e0b-a23d-c2773c1a4b9f,Shuangqiao,Frankfort,FedEx,Road,1541,73,Clear,Low,Delayed,19,3/9/2025
+828,9e9d2ec8-9f7f-4934-a68d-fdf154cde054,Kájov,Mekarsari,BlueDart,Road,204,76,Clear,Medium,In Transit,32,3/17/2025
+829,40d22679-0c53-43e7-b6c8-a1bae0d597a9,Bielawa,Muramvya,UPS,Road,2923,65,Fog,High,In Transit,6,2/17/2026
+830,39451eb2-240d-4721-8e5f-aac2110f7aa5,Huntsville,Pedreira,UPS,Road,1615,91,Rain,Medium,In Transit,69,12/6/2025
+831,cfe7c18e-c2ca-471a-ba9a-d946cda8c68c,Opaka,Sukacai Tengah,BlueDart,Sea,1998,25,Heatwave,High,Exception,8,2/24/2024
+832,2f52ac08-5f08-417c-ae21-5651972a6374,Calimita,Malianchuan,FedEx,Sea,1409,34,Rain,High,In Transit,49,12/22/2024
+833,e7ba9bfb-291c-4b8c-b378-401126b92802,Haoxinying,Itapevi,Delhivery,Rail,1195,50,Clear,High,In Transit,35,6/9/2024
+834,19f83e41-cef6-4925-a0a6-7a854a0f37fe,Dachun,Pedra Azul,FedEx,Sea,967,58,Storm,Low,Delayed,42,9/1/2024
+835,65acf206-b7cf-44a4-ac31-d77cce1c4836,Rila,Wangping,FedEx,Sea,776,73,Clear,Low,In Transit,21,4/8/2025
+836,071c0861-55aa-4054-9b4e-076c2700507f,Ma‘arrat an Nu‘mān,Sugihwaras,FedEx,Air,746,86,Rain,Low,Delivered,30,8/7/2024
+837,d67254b7-0c19-4bfd-9aea-f402b36600a1,Jiuchi,Rattanaburi,BlueDart,Sea,1121,74,Rain,Medium,Delayed,12,5/16/2026
+838,5306ca56-d5f5-40f0-bf38-2632d327f2d6,Aeka,San Francisco,DHL,Sea,826,16,Clear,Low,In Transit,47,6/1/2024
+839,d6a4fffd-5a90-4947-bc78-2df3c8f2570f,Sumuranyar,Padre Nabeto,BlueDart,Air,2934,7,Fog,Medium,In Transit,30,8/27/2024
+840,d47b3e97-907d-4877-a7e1-87bed3c4f680,Tanda,Nancy,BlueDart,Air,1851,47,Storm,Low,In Transit,43,4/5/2025
+841,3753ddae-e7f9-414c-9687-3476397824ff,Höshigiyn-Ar,Nicosia,UPS,Air,868,82,Clear,Low,In Transit,26,5/20/2024
+842,54c2f53c-5933-4fbc-ae4a-88e7e2637af7,Vänersborg,Veliki Grđevac,Delhivery,Sea,1011,67,Clear,Medium,In Transit,47,3/11/2026
+843,6fb77a19-ea68-4155-9ad3-d508214867f3,Azenhas do Mar,Debrecen,UPS,Air,2440,14,Heatwave,High,Delivered,34,2/13/2026
+844,69602f25-5716-4394-a093-b127e21f3f7c,Pondokunyur,Água Levada,FedEx,Road,842,42,Heatwave,High,In Transit,46,10/5/2024
+845,caeca93b-fea7-40fc-8a1f-96ff4d802796,Ad Dawḩah,Novorossiysk,Delhivery,Air,1319,20,Rain,Low,Exception,12,5/19/2024
+846,5c287a00-a029-4c75-a712-f2c6e3639856,Tangga,Korenëvo,BlueDart,Rail,2313,15,Clear,Medium,Delayed,61,11/18/2024
+847,0b38fb4a-5871-46d9-8b9f-8235dcabb1d9,Rudnyy,Novozavidovskiy,DHL,Air,2264,21,Storm,High,Delayed,17,10/2/2025
+848,371dda30-ad97-44b4-b5df-2965445fff43,Biliri,Lankaran,FedEx,Sea,132,44,Rain,Medium,Delivered,64,11/21/2025
+849,0073cfae-ca62-4013-8868-9677fde52ce5,Tayirove,Río Hondo,Delhivery,Sea,1418,93,Fog,Medium,In Transit,11,3/24/2025
+850,c2ee75f4-5918-4058-b4eb-b8bfcc058645,Guia,Bayt ‘Ūr at Taḩtā,UPS,Road,2821,6,Storm,Medium,In Transit,28,8/11/2025
+851,4878b619-3079-424e-b390-cba01a7d521f,Ouégoa,Astorga,Delhivery,Road,583,20,Fog,High,Delayed,15,3/17/2025
+852,5c375af3-d4f2-4db4-a46e-c6f0ce3dc8d5,Mainri,Dongxin,BlueDart,Road,2406,33,Fog,Low,Delivered,14,5/22/2024
+853,8b2881d6-9e51-4448-8ff7-fb6b3862afd2,La Mesa,Hamburg,DHL,Sea,488,71,Heatwave,Low,In Transit,38,8/28/2024
+854,a9ae4e10-f9f2-4486-b92f-c1e54e0ac53d,Mañazo,Purbalingga,DHL,Road,1608,54,Clear,Medium,Delayed,66,8/12/2024
+855,14810ef4-2084-4355-a258-fc48f59987ca,El Calafate,"Palmas De Gran Canaria, Las",BlueDart,Sea,2138,16,Fog,Medium,Exception,6,7/12/2024
+856,77f0abd4-1c45-4351-90ab-2d080e4aac44,Pinaring,Frederiksberg,DHL,Sea,764,92,Clear,High,Delayed,47,1/19/2026
+857,d9a859ef-6a8a-4386-8a83-9008147e1dd4,Mölndal,Villa María,Delhivery,Rail,2007,42,Storm,Low,Exception,31,7/27/2024
+858,e1b0731f-8728-4e80-8eca-740bcd79dd6f,Talayan,Qiantang,Delhivery,Sea,823,90,Clear,Medium,Delivered,42,5/20/2024
+859,1b45f29e-a969-4b10-b771-0ce066cfb4b3,Huili Chengguanzhen,Saint-Étienne-du-Rouvray,UPS,Sea,1716,66,Rain,High,Delivered,55,3/14/2025
+860,b36d4914-7def-440b-814e-877239dfcfc3,Stockholm,Heishan,DHL,Road,2505,57,Heatwave,High,Exception,44,7/24/2024
+861,1604aef1-7549-4b0e-9415-fac5438b1e45,Kariaí,Changtang,BlueDart,Rail,1162,86,Clear,High,Delayed,7,3/3/2026
+862,286bc63d-817a-4119-a7b1-431494cda2ef,Ar Ramthā,Komarno,FedEx,Air,2840,9,Rain,Low,In Transit,44,5/23/2024
+863,2bdd6970-1f76-4f8f-913f-b78a0558c83d,Pulong Sampalok,Uppsala,DHL,Road,1784,84,Storm,Medium,Delivered,43,4/22/2026
+864,4749292e-92cc-4635-97f5-5ae56f31a0d4,Ponta Grossa,Bajomulyo,FedEx,Rail,2359,51,Storm,High,Delayed,46,3/18/2025
+865,1026c0da-3ab3-4160-b7e4-aeb6dda26b2f,La Virtud,Padangtiji,BlueDart,Road,2541,60,Heatwave,High,Delivered,35,3/27/2024
+866,4b4c334a-9b1b-455e-94b6-f58e4355c2a7,Da Nang,Cangchang,Delhivery,Sea,2117,91,Heatwave,High,In Transit,39,8/24/2025
+867,c1b4a981-8c0a-486f-a6e8-516ea21cdd7f,Roioen,Banjar Desa,BlueDart,Rail,1891,20,Rain,Medium,Delayed,8,4/5/2024
+868,f4143209-4542-4b0c-a7b2-4f181016d8ab,Osasco,Lianghekou,UPS,Rail,211,66,Rain,Low,Delayed,36,10/14/2024
+869,5dbba4c5-9bfd-4b22-af0b-3c215a73f180,Hương Sơn,Tatarbunary,BlueDart,Sea,1700,30,Fog,Medium,In Transit,37,12/31/2025
+870,c5823a56-d6a1-451d-bcc3-1142903ccd98,Buyun,Shashūbay,UPS,Sea,2452,57,Heatwave,Low,Delivered,48,2/27/2026
+871,152df47d-eb0d-4c10-813d-4ab70634bd9c,Niedźwiedź,Hejiang,DHL,Road,144,60,Storm,Medium,Exception,55,11/17/2025
+872,210def20-2c60-4957-b37a-ec8c7b8d0b5b,Hehe,Novopodrezkovo,UPS,Air,1137,74,Fog,Low,In Transit,45,5/10/2026
+873,6b4503b1-feaf-41d9-bd44-58384b0e6f8d,Nema,Barra,FedEx,Rail,1152,26,Heatwave,Low,Delivered,24,4/10/2025
+874,f26303e6-2a85-4cc8-837c-d07984572b17,Chiriguaná,Troitskoye,UPS,Sea,1618,98,Heatwave,High,Delayed,66,8/29/2025
+875,2f7d48e4-133a-4de6-baeb-8ab7a16e104c,Caotang,Cimaragas,UPS,Sea,903,12,Storm,Medium,Delivered,34,2/23/2024
+876,d3cd3ce0-4ebe-4fc7-89aa-8fa2409d35d3,Riđica,Yuqi,BlueDart,Air,1465,61,Clear,High,In Transit,59,2/27/2026
+877,696cc3dc-568f-465d-b006-5bcccfd6207c,Long’an Chengxiangzhen,Buenaventura,Delhivery,Sea,1244,12,Heatwave,Medium,Exception,45,5/16/2026
+878,fc6bf324-9ea9-42ca-9901-bdc172b17266,Krajan Dua Padomasan,Anthoúsa,FedEx,Sea,1516,17,Storm,Low,Delivered,1,7/26/2024
+879,452dfeea-75c1-4dd6-994f-40d76fa1011b,Khal’ch,Polen,DHL,Rail,1484,91,Storm,Medium,Exception,9,4/8/2025
+880,d5d48f2b-e442-4e83-a896-988529f0b377,Shazikou,Kampokpok,Delhivery,Air,442,82,Storm,High,Delivered,16,7/24/2025
+881,838b8dac-9487-478d-9b0f-f91b9f7f0f35,Novo Horizonte,Mallawī,BlueDart,Sea,1915,73,Rain,Medium,Delivered,7,10/19/2024
+882,4f215a4a-763c-4355-b0ee-26f70ef4c802,Taibai,Huambo,FedEx,Air,2653,13,Fog,Low,Exception,21,1/23/2025
+883,5cb2739d-efc9-4be1-aa47-f76f4486b5c3,Gaoguan,El Paso,FedEx,Road,1976,44,Storm,High,Exception,51,1/13/2025
+884,5958b1b6-d591-4cb7-94ab-eb9cc1c3765e,Dan Sadau,Tirana,FedEx,Road,832,86,Storm,Medium,Exception,21,8/9/2025
+885,940c28b1-944d-4ce4-b2ba-df32ab0efb39,Yatunpu,Naifalo,BlueDart,Road,2646,62,Rain,Medium,Exception,36,12/24/2025
+886,976a5153-aad2-4e4d-b547-e89588e3a6ef,Lipa City,Wadeng,UPS,Air,2866,36,Fog,Medium,Delayed,5,11/2/2025
+887,090a3069-1cb7-4ae6-bdf7-ff5d1af83af7,La Uvita,San Isidro,BlueDart,Sea,674,61,Storm,Low,Delivered,41,1/13/2025
+888,5ff51a57-e54b-4baa-a766-e98360a09e48,Yanjiang,Tinambacan,BlueDart,Air,2416,44,Storm,Low,Delivered,11,9/17/2025
+889,8791fa08-1403-45c6-a511-0631a265c8b0,Narva-Jõesuu,Pawili,UPS,Air,2662,55,Rain,High,Delayed,72,7/28/2024
+890,bd4d0127-7975-436d-bedf-c1f6b1284261,Kitchener,Igreja,Delhivery,Air,1934,84,Storm,High,Delayed,60,8/12/2025
+891,9f9da61c-5ddd-4625-987b-6b9055734aef,Novopokrovskaya,Okotoks,BlueDart,Air,1174,3,Rain,Medium,In Transit,72,5/4/2025
+892,c0ce2011-c5e8-4c2e-8f3e-bde3ef036849,Dallas,Xinji,Delhivery,Rail,2415,73,Heatwave,Medium,Exception,66,4/8/2026
+893,c92b1733-c4af-4f6b-aa7e-0bf252b4781b,Radom,Shaxi,BlueDart,Sea,1563,8,Clear,Medium,Exception,39,1/4/2026
+894,e3554f5d-351a-418d-97fd-5413e9b343c5,Jianghai,Santa Rosa,FedEx,Road,322,37,Rain,High,Exception,41,3/12/2025
+895,beba2f6b-ffd7-4a29-bce5-e083b0f20d52,Phan Rang-Tháp Chàm,Choujiang,FedEx,Road,1820,76,Storm,High,In Transit,1,5/8/2025
+896,4e0579a1-3464-4e85-801c-9cf056f76764,Xincun,Ticaco,BlueDart,Rail,1095,87,Clear,High,Delayed,62,9/30/2024
+897,6056372c-6aba-4044-b0b2-5cd9205e09f6,Malinovskiy,Bang Mun Nak,BlueDart,Road,1020,29,Storm,Medium,Delayed,65,6/11/2024
+898,2bd80425-4e92-4a02-a2a4-b87154f89250,Nový Knín,Darfield,DHL,Air,1536,53,Heatwave,High,Exception,1,6/10/2025
+899,c885d9f0-47a8-4013-9bd7-b05d91a9fd3d,Takub,5 de Mayo,UPS,Air,1957,18,Fog,Low,Delayed,38,10/31/2025
+900,5343793f-7803-48b3-be6b-08ff4a3dbe87,Goge,Bayang,DHL,Air,888,55,Clear,Medium,Exception,36,8/12/2024
+901,dd472263-3a6a-46de-8748-7d5f132a2e6c,Kuanping,Kula,DHL,Road,497,62,Rain,Low,Delayed,50,5/9/2026
+902,59129f3a-300f-4295-a576-0336aaed9e91,Porlamar,San Borja,DHL,Sea,2926,1,Fog,High,In Transit,9,5/10/2026
+903,1156ddf0-aa7b-430f-95b4-40ad1aa1967f,Banyuurip,Mouzourás,FedEx,Rail,1175,46,Rain,Medium,Delayed,72,7/10/2025
+904,9bb7870c-a346-48de-882d-117e91fbfcd5,Tianzhou,Phuthaditjhaba,DHL,Road,1700,28,Clear,Medium,Delivered,51,3/23/2026
+905,546b480b-9bc9-42b9-b2e7-eb6d37253a7f,Tuanalepe,Jiaojie,FedEx,Rail,688,7,Rain,Medium,In Transit,54,1/13/2026
+906,f14ffcfb-1609-4c59-96be-190ae08d906c,Shankill,Paris 17,BlueDart,Road,1670,30,Rain,High,Delivered,4,5/16/2026
+907,f10730a8-a331-44ef-833c-2a10b9294e71,Rencun,Sagara,BlueDart,Rail,2355,59,Storm,High,Delayed,57,3/11/2026
+908,4ead1aee-95c6-45f2-9f4c-427985483deb,Vilque,Haiyan,DHL,Sea,1201,59,Heatwave,High,Exception,10,8/1/2024
+909,34ebf7cd-5e08-4846-8a4f-37f816014927,Banqiao,Xin’an,UPS,Rail,258,90,Clear,Low,Delayed,64,9/23/2025
+910,a5082630-438e-433f-85fe-fb91ae7d127a,Tukhlya,Orléans,FedEx,Air,1234,62,Storm,Medium,Delayed,56,3/8/2024
+911,41b00eb9-bea1-4024-b90d-04ecd844f5bd,Lela,El Copey,BlueDart,Road,478,23,Fog,High,Delivered,28,3/21/2026
+912,67eb7da8-d899-47fe-b038-c854d28d2a38,Quime,Pavlovka,Delhivery,Road,2478,43,Storm,Medium,In Transit,16,4/27/2024
+913,0a5bb048-c22e-4f73-a5ac-a01b72d763fa,Xiaogang,Kaltan,UPS,Air,394,8,Fog,High,Delayed,27,2/21/2024
+914,1e0c1ffa-add1-4f65-8f14-285dcf8e7ded,Šluknov,Krajan,UPS,Rail,57,11,Storm,Medium,Exception,42,2/17/2025
+915,6c86a087-1128-4921-a834-f0ab4938c96f,Hněvotín,Shali,DHL,Air,168,55,Heatwave,High,In Transit,8,11/2/2024
+916,b8fa3903-23a1-4234-ab5b-04bb5f34655b,Fengshan,Jiangkou,FedEx,Rail,1707,33,Heatwave,High,Delivered,53,7/4/2024
+917,77bb0fe9-6b41-4686-a9f9-ff9c2916984c,Montélimar,Chŏngju,UPS,Road,762,35,Heatwave,Medium,Delayed,71,8/9/2025
+918,d035aff4-8dd0-413e-9097-5d44cf6ff608,Ampelákia,Chengnan,DHL,Road,1750,9,Clear,High,Exception,11,10/1/2024
+919,41180711-bdc6-41e1-a0e4-f9501931b777,Telde,Olszówka,DHL,Road,2503,26,Clear,Medium,Exception,30,8/20/2025
+920,3cc8773a-2cf9-433e-9d12-0b238973193b,Zhangcun,Marisgama,UPS,Air,1464,75,Clear,Low,In Transit,59,6/3/2025
+921,1feda209-7feb-42bf-80da-595f1b684715,Balkh,Teruel,UPS,Rail,2544,61,Heatwave,Medium,Delayed,58,5/8/2026
+922,677e53a3-c09e-4a6c-8733-7b1c5cc6ce2c,Krujë,West Palm Beach,Delhivery,Road,1510,57,Storm,Medium,Delayed,66,4/10/2024
+923,5de30fa9-6e26-41bc-8638-537e5aea405a,Dīvāndarreh,Fastiv,DHL,Sea,771,97,Fog,Medium,Delayed,23,11/11/2025
+924,089fde4a-03c7-44ac-806f-04a57ac0f983,Bariri,Polo,BlueDart,Road,1454,97,Rain,Medium,Delayed,50,1/27/2025
+925,b1e8efe0-16f8-480c-add1-8a0337ebe862,Baoxing,Gaide,Delhivery,Road,1934,30,Fog,Medium,Delivered,31,9/5/2024
+926,6110f3a8-aa2a-4c97-a460-b49827260c3e,Wincrange,Blansko,BlueDart,Air,294,52,Rain,Medium,Delayed,30,3/29/2025
+927,2abff5c2-884e-4a2b-be21-70c8a8583639,Benito Juarez,Lijia,Delhivery,Sea,1301,43,Rain,Low,In Transit,46,5/19/2024
+928,b5b06e01-939d-47a4-99d4-25f5358b54e2,Novorossiysk,Kloulklubed,UPS,Air,2610,41,Clear,High,Delayed,71,9/24/2025
+929,53d9d599-1d84-47a8-ba7f-6cd44c103adc,Chame,Xinxi,FedEx,Road,608,15,Rain,Low,Delayed,61,11/13/2025
+930,399940d4-f346-4d92-a72f-04a67d6bd929,San Pedro,Sirdaryo,Delhivery,Rail,649,59,Storm,High,Delivered,38,12/31/2024
+931,b2587624-7ac2-45cc-82a6-cab4cf9969b9,Hudson,Suwa,DHL,Air,1365,55,Storm,High,In Transit,58,10/27/2025
+932,8307485c-4d3f-469b-a695-77a2c6ca2ec4,Herrljunga,Manta,FedEx,Road,1077,100,Heatwave,Low,Delayed,52,2/8/2026
+933,6eb2cde3-b9ce-4b8e-b4ae-dff2175bc964,Jianfeng,Jetis,FedEx,Rail,1935,91,Heatwave,Medium,Exception,32,11/25/2024
+934,ef475994-1a0e-4886-94c9-eeeb90d86563,Haninge,Zagórze,FedEx,Sea,328,67,Clear,High,Delayed,10,9/8/2024
+935,9cff49af-537b-4c68-b978-9b7e327b9128,Porto de Mós,Chimbas,UPS,Air,1274,65,Rain,Medium,Delivered,28,3/23/2026
+936,e9e21a30-3254-4a3c-879d-030da6623d42,Savyon,Villa Santa Rosa,FedEx,Sea,2691,39,Rain,Low,Delivered,31,12/21/2024
+937,4fa19834-289e-4437-b635-ddc8f7029b89,Bratislava,Sukodono,FedEx,Sea,1491,67,Rain,Low,In Transit,38,5/26/2025
+938,d7b40a80-5bd6-4b9e-aa03-6dc751e74bd6,Niyang,Shanmuqiao,UPS,Air,1659,100,Clear,High,In Transit,59,11/17/2024
+939,2e2b490f-b32d-406f-a1e2-cf44cd937227,Trzcianka,Songjiang,BlueDart,Road,1494,35,Fog,Medium,Exception,9,4/24/2025
+940,8c7fc033-8d34-41c3-a8ec-f3968f33a4b6,Kineshma,Xinglongchang,DHL,Rail,2720,64,Storm,High,Delivered,21,7/16/2024
+941,5ed4dee0-0993-4540-9765-18094429f8c0,Pointe Michel,Arţās,Delhivery,Sea,1246,33,Rain,Medium,In Transit,4,1/17/2026
+942,5b5f5a95-15be-4818-9688-71d96a715621,Batulenger Barat,Abastumani,DHL,Road,1299,50,Clear,Medium,Delivered,50,7/15/2024
+943,6ea7d94a-356a-4439-9ad1-d685dfed5706,Tunbao,Stradbally,BlueDart,Rail,2890,54,Rain,Medium,Delayed,44,7/6/2025
+944,29682038-e042-4795-bcae-19134de2efee,Pantaibesar,Lagoa,DHL,Rail,1654,81,Clear,Low,Exception,59,2/15/2025
+945,d9286548-b5e5-4b3c-af4a-37e4c11cad0d,Sigetec,Boro Utara,DHL,Sea,1412,46,Heatwave,High,Delivered,64,5/10/2025
+946,bafa09fa-bdea-4e73-a1b3-1b3e3e916737,Minnedosa,Kotanopan,DHL,Road,80,74,Rain,High,Exception,22,1/15/2025
+947,7d211745-186c-455c-8c0b-511f30d9691a,Xinhe,Chennevières-sur-Marne,DHL,Rail,1503,41,Fog,High,In Transit,7,7/18/2025
+948,f3a15d5a-b01b-4444-bfd5-8e7edba29dff,Munkedal,Kentongan,BlueDart,Rail,2546,6,Rain,High,Delivered,58,1/6/2026
+949,1ba51570-2604-4aae-b06b-58dce6a12a19,Baní,Inglewood,FedEx,Rail,2801,21,Storm,Medium,In Transit,19,8/19/2024
+950,03632f14-f4f2-47da-9ced-4a296f0915d9,Sanhui,Eslöv,Delhivery,Rail,2596,3,Clear,High,Exception,68,10/3/2024
+951,fe362271-7c5e-4ce3-b1c1-cff079504918,Gustavsberg,Tianjiazhai,BlueDart,Road,1783,21,Storm,Medium,Exception,5,1/25/2025
+952,69e3539b-d774-4639-a827-b841151de0af,Rehoboth,Mazār-e Sharīf,DHL,Air,425,9,Heatwave,Medium,Delayed,64,3/28/2025
+953,711ff570-ec09-4a2c-922f-5abed6ac3126,Sosnovka,Rolante,DHL,Rail,2645,9,Storm,Low,Delivered,21,10/5/2024
+954,ba87df34-fa03-403a-8dd1-a479e4c78da6,Penedono,Gavião,FedEx,Rail,1268,87,Clear,Low,In Transit,13,8/28/2025
+955,d34dfaeb-fd66-4f3e-b3d6-452791902673,Maple Plain,Stoczek,Delhivery,Sea,588,39,Storm,Medium,Exception,3,4/21/2026
+956,69d05d0e-b2a7-4250-b9e3-4046648ab61f,Pomahuaca,Osnabrück,DHL,Road,604,41,Clear,High,Delayed,50,5/19/2026
+957,80a916c6-3682-42d9-8d68-0a81630bf9d8,Mora,Březová nad Svitavou,Delhivery,Road,1581,50,Rain,High,Delayed,57,3/16/2025
+958,14ad3323-d59b-42aa-9a4f-1422bcf2fef4,Hualin,Dodola,DHL,Rail,1853,47,Storm,High,In Transit,27,3/31/2024
+959,32b9ca36-204b-40d4-a5bc-2ed3309c79d8,Kakan,Bokor,FedEx,Road,1527,85,Fog,Medium,In Transit,27,3/28/2024
+960,e46053e7-2811-4e56-a3b9-cf50eb41c4bf,Buyant,Riolândia,DHL,Rail,2898,50,Storm,High,Delivered,6,6/17/2025
+961,b0e3b60b-fd3f-4d22-a626-bd316c78aca4,Thāru Shāh,Drayton Valley,DHL,Road,1363,66,Fog,High,Delivered,18,6/11/2025
+962,e6500f04-11f7-4450-a3c8-4e0f41e9405a,Mayqayyng,Yangqiao,UPS,Road,1195,19,Heatwave,Low,Delayed,64,5/9/2025
+963,5ab11424-96f0-435b-bd39-59c848f5ed3e,Wilmington,Hadabei,Delhivery,Air,2384,84,Rain,Medium,Delivered,38,10/5/2024
+964,375047d0-4e5f-424d-9998-cab41640071c,Rocky Mountain House,Visby,DHL,Sea,1655,92,Storm,Low,Delayed,43,7/27/2024
+965,c52104a2-bae5-4f3d-a30c-5a9390d3aeb7,Kilju,Trongsa,BlueDart,Sea,2273,57,Storm,High,Exception,58,4/8/2024
+966,3fea80ad-931b-4e0f-be1f-085619d3ba4e,Hulutao,Višňové,BlueDart,Rail,1690,57,Fog,Medium,Delayed,28,5/16/2026
+967,652c2f99-3675-47c4-b05f-ff1cb4b87f84,Żarów,Jawhar,BlueDart,Road,61,82,Heatwave,Low,Delivered,13,7/13/2025
+968,009aa898-515e-475e-8238-af4a7050ff72,Ljungsbro,Mikulášovice,FedEx,Air,87,32,Storm,Medium,Delivered,44,1/27/2025
+969,fba0c10b-42d9-4f0d-bdc6-431d3ad13eda,Valence,Thabazimbi,BlueDart,Road,2670,46,Heatwave,Low,In Transit,20,9/20/2024
+970,7caa681b-5353-4a4d-b502-b26971d90994,Lanzhong,Jaru,Delhivery,Air,303,23,Heatwave,High,Delivered,5,8/24/2024
+971,cc8cf8fb-41f2-4b1f-b067-81aa6fa07db3,Yuhuazhai,Cap-Santé,DHL,Air,2988,87,Storm,Low,Exception,4,5/8/2024
+972,06a92861-b90e-44bd-8bfb-d883c22fddc1,Heliconia,Palaiomonástiron,UPS,Road,2262,7,Storm,Medium,Exception,59,3/8/2026
+973,df359e74-e1cc-4f58-a8df-6b478dd56e52,Ayna,General Luna,UPS,Sea,2679,8,Storm,Low,Delayed,43,10/12/2024
+974,5b3ad807-a111-4484-81c2-58d2e78c2047,Helsingborg,Tānk,BlueDart,Sea,1731,15,Rain,High,Delayed,46,3/2/2024
+975,e6f9beeb-cacb-4028-8ccb-6753bb77c5cb,Arapongas,Sysert’,FedEx,Sea,615,88,Storm,Medium,In Transit,72,10/3/2024
+976,e6458704-46be-4694-873d-b1a0c6cedc61,Kasingan,Hexi,UPS,Road,765,49,Fog,Low,Delayed,7,7/7/2025
+977,6913921c-bf25-468f-bcac-6c0ed5dccede,Yishui,Washington,UPS,Air,243,93,Storm,Low,Exception,1,4/7/2025
+978,9e0d0f90-9f94-4851-bab8-aaf2f0771011,Xiaoyang,Khashuri,DHL,Rail,1989,95,Storm,High,Delayed,9,10/11/2025
+979,f645502b-3577-4b93-8b73-1f139419f84f,Lemery,Ventersburg,UPS,Rail,2153,10,Rain,High,Delayed,31,4/26/2025
+980,488a93e4-2d3b-498d-b3f9-6bc992f45a65,Zhukovka,Hashtpar,BlueDart,Rail,1545,19,Rain,Medium,Exception,31,8/2/2025
+981,8e79fefc-c460-4d8d-beca-8661dc8c5642,Chantepie,Tabūk,Delhivery,Sea,1271,63,Storm,High,Delivered,8,10/12/2024
+982,70561a10-6877-42fa-85d6-375eacd704cb,Moanemani,Guaíra,BlueDart,Rail,2031,51,Heatwave,Medium,Exception,21,8/23/2024
+983,e1951b58-0fd7-4aa3-acaf-785614c5d567,Sundsvall,Beijiang,Delhivery,Sea,981,17,Fog,Medium,In Transit,7,2/18/2024
+984,be3eb186-c3e8-439c-bab6-3b55284f4026,Hashaat,Krajan,Delhivery,Sea,2948,77,Fog,Low,In Transit,36,9/29/2025
+985,fe57d227-23ca-40b6-a952-a95c7d2a24a1,Rahayu Dua,Vesoul,Delhivery,Sea,903,84,Heatwave,Low,Delayed,66,5/9/2025
+986,364145cf-22bd-44d3-ad8e-0b86357ec2a9,Daba,Juntang,DHL,Air,1181,33,Fog,Low,In Transit,45,5/18/2025
+987,bd1693ed-0a75-4008-b543-49e96633bc69,Thạnh Hóa,Waigete,FedEx,Road,1828,73,Fog,Low,Exception,31,7/31/2025
+988,b7db2dd1-a2c0-4836-89ee-64c6d0e39a4d,Cipicung,Oliveirinha,DHL,Air,585,8,Fog,Low,In Transit,51,7/18/2025
+989,9923bb43-506a-4449-a247-8b85ecdb38fe,Tarutung,Gali,BlueDart,Rail,2073,47,Heatwave,Low,Delayed,60,2/4/2025
+990,b8549801-e7da-42f1-bac6-11e1cf1ea328,Greensboro,San Bernardino,Delhivery,Air,1876,86,Storm,Medium,Delivered,63,7/10/2025
+991,a3bf135f-a834-4c79-a8ef-e99e3eb42183,Tangguhang,Mafra,Delhivery,Road,158,27,Clear,Low,In Transit,56,11/22/2024
+992,b64a7918-0550-45b3-821c-a0296195b5c8,Iowa City,Qingping,FedEx,Sea,2658,78,Heatwave,Medium,Exception,35,6/7/2024
+993,28c9aa43-03cf-42f4-bf3f-bd657a9f42dd,Hønefoss,Mets Parni,DHL,Road,1196,5,Storm,High,Delayed,50,11/8/2025
+994,a26107af-4a22-41b4-84c9-a22f695af1fe,Sosnovyy Bor,Khanāşir,Delhivery,Sea,401,43,Storm,High,In Transit,18,1/22/2026
+995,e22e7fc4-4d6b-4b30-9959-05dfc72831d0,Thun,Sukadana,BlueDart,Air,1632,39,Clear,Medium,In Transit,55,3/9/2026
+996,58534644-e211-489d-85d4-d922e4bb3a63,Al Ain,Nový Knín,BlueDart,Air,2526,95,Heatwave,High,Exception,7,8/31/2024
+997,75fe5016-9e82-455e-b249-d938f586fc9a,Zhoupu,Sarpsborg,FedEx,Road,2582,78,Fog,Medium,Exception,37,6/9/2024
+998,f32daf63-1f70-4a59-89c9-82e270e89d7e,Mailag,Nanlang,Delhivery,Air,147,46,Rain,Low,Delayed,27,4/20/2024
+999,5d669848-4edc-494a-9a09-ba8bbf25a596,Houba,Roche Terre,Delhivery,Sea,1677,97,Heatwave,High,Delayed,20,3/31/2024
+1000,77fc0267-3143-4716-9d68-a057b114d59d,Tahilt,General Luna,DHL,Sea,1534,28,Rain,Low,Delayed,27,5/17/2025
