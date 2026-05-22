@@ -26,6 +26,8 @@ from sklearn.metrics import (
 # -------------------------------------------------------------------
 
 METRICS_FOLDER = "1_snowflake_mini_project/metrics"
+ARTIFACTS_FOLDER = "1_snowflake_mini_project/artifacts"
+
 os.makedirs(METRICS_FOLDER, exist_ok=True)
 
 load_dotenv()
@@ -111,6 +113,10 @@ model = RandomForestClassifier(
 )
 
 model.fit(X_train_smote, y_train_smote)
+
+import joblib
+joblib.dump(model, f'{ARTIFACTS_FOLDER}/trained_model.joblib')
+print('Trained model serialized successfully!')
 
 
 # -------------------------------------------------------------------
