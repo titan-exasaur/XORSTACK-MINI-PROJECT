@@ -86,6 +86,8 @@ y = df["ANOMALY_FLAG"]
 # -------------------------------------------------------------------
 # Train-test split and SMOTE
 # -------------------------------------------------------------------
+# class a: 66, class b: 660
+# class a: 660, class b: 660
 
 X_train, X_test, y_train, y_test = train_test_split(
     X,
